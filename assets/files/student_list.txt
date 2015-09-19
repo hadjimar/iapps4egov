@@ -1,0 +1,736 @@
+LRN	Lastname	Firstname	Middlename	Extension	Gender	Birthday	Grade	Section	DateOfFirstAttendance	Province	CityMunicipality	Barangay	Guardian	RelationshipToGuardian	GASTPE Recipient
+108574050025	Batao	Mark Jerwin	Perez		 M	1/7/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Rosemarie Majestrado Perez	PARENT	Y
+	Dela Cruz	Andrey	Landig		 M	6/13/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Leocel Morales Landig	PARENT	Y
+108574050098	Labaco	Mark Julo	De Gracia		 M	1/11/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy.5	Jocelyn Vinuya De Gracia	PARENT	Y
+	Monforte	Ruel Joseph	Elep		 M	12/18/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Glenda Rufo Elep	PARENT	Y
+108574050142	Nacalaban	Aljon	Batao		 M	7/27/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Alicia Ilagan Batao	PARENT	Y
+	Nuella	Aeron	Ramirez		 M	8/7/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Vilma Balmes Ramirez	PARENT	Y
+108574050150	Olea	John Meylord	Ingente		 M	9/30/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Rowena Mendaro Ingente	PARENT	Y
+108574050176	Pitarde	John Christian	Anglo		 M	8/21/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Angelina Osi Anglo	PARENT	Y
+	Recio	Jerson	Andal		 M	9/30/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Ginalyn Verdera Andal	PARENT	Y
+108574050191	Regala	Allen	Lerum		 M	11/17/1998	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Maricel Dapula Lerum	PARENT	Y
+	Saludadez	Mars	Canzon		 M	10/18/1998	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Cecilia Jundak Canzon	PARENT	Y
+	Santander	John Bermar	Inojosa		 M	7/31/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy.5	Maricel Lianita Inojosa	PARENT	Y
+10857405043	Torres	Ronilo	Urtal		 M	10/16/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 3	Eufrocina Zamora Urtal	PARENT	Y
+108574050214	Trapane	Francis Martin	Gutlay		 M	7/24/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Hysel Pacheco Gutlay	PARENT	Y
+173011050072	Villapando	Alexis	Mayo		 M	9/5/1999	Grade 10	St. Therese	6/8/2015	CAMARINES NORTE	SANTA ELENA	Tabugon	Marites G. Mayo	PARENT	Y
+108607050112	Villaverde	Welson	Manjares		 M	7/31/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Elena Deocariza Manjares	PARENT	Y
+108574050008	Alday	Jeanie Lyn	Jamito		F	1/12/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Binutas	Nomelita Mendoza Jamito	PARENT	Y
+	Alvarado	Princess Dianne	Marbella		F	5/21/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 3	Emerlinda Magdae Marbella	PARENT	Y
+	Anglo	Kayla Therese	Paraiso		F	7/28/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 4	Jessica Eclavea Paraiso	PARENT	Y
+108574050017	Bacayan	Rica Joyce	Anda		F	8/7/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Aida Alcantara Anda	PARENT	Y
+108583050010	Balion	Zestleen	Mendaro		F	1/26/2001	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	San Roque	Maileen Maramba Mendaro	PARENT	Y
+108574050028	Berana	Marielle	Gloria		F	3/21/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Cherie Italia Gloria	PARENT	Y
+108574050032	Borja	Juliette Christa	Reyes		F	7/23/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Baclaran	Editha Ramirez Reyes	PARENT	Y
+108574050049	Deapera	Pia Clarisse	Epino		F	9/6/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Felicitas Vasquez Epino	PARENT	Y
+	Ebio	Ma Carmen	Domanais		F	7/29/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Gina Bobelis Domanais	PARENT	Y
+10857405055	Ebora	Paula Nicole	Francisco		F	9/5/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Rezel Manalo Francisco	PARENT	Y
+108574050062	Estilar	Elaiza	Quirubin		F	9/21/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Elenita Devera Querubin	PARENT	Y
+108574050070	Flores	Alyson Denise	Mendoza		F	8/3/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Teresita Villamayor Mendoza	PARENT	Y
+108574050072	Florido	Lei Ann	Redado		F	10/29/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Sylvia Galvez Redado	PARENT	Y
+108574050073	Florido	Mariane Sodhel	Mustera		F	10/11/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Susan Lozares Mustera	PARENT	Y
+108574050078	Gamban	Fleurdeliz	Lipnica		F	5/23/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Clemen Serdinio Lipnica	PARENT	N
+108574050095	Jariel	Lovelyn	Dela Cruz		F	11/24/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Analyn Candelario Dela Cruz	PARENT	Y
+108574050099	Labaco	Mary Grace			F	2/21/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 2	Merced Escobio Labaco	PARENT	Y
+108574050111	Loresto	Almira	Dela Cueva		F	8/18/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Helen Opiana Dela Cueva	PARENT	Y
+108574050113	Lubrica	Claimence Kate	Madronio		F	12/27/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Menchie Santualla Madronio	PARENT	Y
+108574050120	Manatad	Marjorie Joy	Del Espiritu		F	10/3/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Melody San Miguel del Espiritu	PARENT	Y
+108574050125	Marca	Lucila Joy	Salvanera		F	10/10/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Sonia Lamado Salvanera	PARENT	Y
+108574050126	Marqueses	Diana	Juego		F	10/22/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Lea Coral Juego	PARENT	Y
+108574050132	Mejila	Ma. Cyril	Geneblazo		F	1/9/2000	Grade 10	St. Therese	6/8/2015	QUEZON	GUINAYANGAN	Danlagan	Analyn Lumpes Geneblazo	PARENT	Y
+108574050133	Mendoza	Ana Patricia	Medrano		F	5/2/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Baclaran	Milagros Garcia Medrano	PARENT	Y
+108574050146	Obien	Shania	Alcantara		F	8/26/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Jeanepher Miravalles Alcantara	PARENT	Y
+108574050167	Pedrezuela	Mary Rose	Baco		F	11/15/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Rosalina Lagrana Baco	PARENT	Y
+108574050185	Pumariga	Angelou	Enerlan		F	6/13/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Yolanda Palines Enerlan	PARENT	Y
+108574050192	Regala	Beatriz Joy	Merjilla		F	10/21/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Joanna Marie Laman Merjilla	PARENT	Y
+	Siazon	Christine	Nang		F	12/29/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Daisy Arcilla Nang	PARENT	Y
+	Tan	Faye Jillian	Rosales		F	11/25/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Ma. Jonalyn Ong Rosales	PARENT	Y
+108609050100	Tarusan	Danica Jade	Mapula		F	5/4/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Judith Tugano Mapula	PARENT	Y
+108574050125	Trapane	Joan Isabelle	Umali		F	6/2/2000	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Isabel Segui Umali	PARENT	Y
+	Uranza	Khassey	Pitarde		F	7/11/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Karen Lerum Pitarde	PARENT	Y
+108574050225	Vinuya	Zyrene	Claveria		F	11/3/1999	Grade 10	St. Therese	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Milijone Amido Claveria	PARENT	Y
+	Ajero	Jan Raphael	Lustado		M	5/20/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Leonora Rodel Lustado	PARENT	Y
+108574050027	Bejec, 	Sigmund			M	12/7/1998	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Quatro	Gina Belino Bejec	PARENT	Y
+108606050009	Benitez	Kim	Morales		M	7/12/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Patihan	Nurry Francisco Morales	PARENT	Y
+173012050021	Cortez	Kim Adrian	Castuera		M	5/13/2000	Grade 10	St. Claire	6/8/2015	CAMARINES NORTE	SANTA ELENA	Tabugon	Eden Entienza Castura	PARENT	Y
+1085850521	Cruzat	Rendell	Pacuribot		M	4/6/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sumilang	Rowena Abulon Pacuribot	PARENT	Y
+108574050051	Devis	Neil Cholo	Castillo		M	7/7/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Kinalin Ibaba	Mirabel Ferrer Castillo	PARENT	Y
+10859005006	Diamante	Jhanscen	Hita		M	3/31/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Anahawan	Carazon Castillo Hita	PARENT	Y
+	Eboña	Clayton	Ruiz		M	7/17/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Maria Richelda O Ruiz	PARENT	Y
+108574050068	Ferreras	Jerico Vincent	Devera		M	1/3/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Ma. Josephine Zuniega Devera	PARENT	Y
+108574050077	Galan	Jhon Joven	Manidlangan		M	1/31/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Cinco	Melinda Boragay Manidlangan	PARENT	Y
+	Golpeo	Daniel	Banares		M	9/21/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Baclaran	Mildred Cerilla Banares	PARENT	Y
+	Guay	Jayson	Urbano		M	12/12/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Patihan	Lorna Balbin Urbano	PARENT	Y
+	Gutierrez	Ferdinand Philip	Borromeo		M	5/8/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Noreen Valencia Borromeo	PARENT	Y
+108574050091	Indenible	Jan Patrick	Mejino		M	2/16/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Quatro	Lorna Conda Mejino	PARENT	Y
+108574050106	Licas	Christian Russell	Umali		M	12/24/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Arlyn Blanco Umali	PARENT	Y
+108574050114	Lumabi	Jancenth	Loquinario		M	7/17/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Cinco	Beatriz Arcilla Loquinario	PARENT	Y
+108606050042	Manzanero	John Paul	Suni		M	6/12/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Rowena Silverio Suni	PARENT	Y
+108574050124	Marasigan	Jaynald	Aniel		M	7/15/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Rosalinda San Juan Aniel	PARENT	Y
+	Molinyawe	Creed	Juego		M	5/21/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Maribel Coral Juego	PARENT	Y
+108547050172	Pereira	Joseph	Ricasio		M	1/8/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Emelita Valena Ricasio	PARENT	Y
+	Pula	Arvin Roy	Llaneta		M	9/29/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	San Roque	Rosalina B. Llaneta	PARENT	Y
+108574050197	Ronda Jr.	Michael	Grodona		M	3/13/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Arlene Grefalda Grodona	PARENT	Y
+	Ruiz	John Lorenz	Tardecilla		M	5/16/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Lorenza Hazel Leonor Tardecilla	PARENT	Y
+	San Pablo	Clark John	Ramiscal		M	5/1/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Almira Albo Ramiscal	PARENT	Y
+	Sardea	John Kenneth	Paraiso		M	8/10/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Villa Magsino	Pilar Losande Paraiso	PARENT	Y
+108574050210	Suan	Mark Vincent	Olviga		M	12/9/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Maria Teresa Olviga	PARENT	Y
+108574050224	Villaos	King James	Leonor		M	11/23/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Uno	Rowena Martinez Leonor	PARENT	Y
+108574050006	Alcantara	Emerose	Julita		F	7/19/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Cinco	Lerma Conte Julita	PARENT	Y
+108607050008	Aquino	Kristine	Panganiban		F	12/29/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang uno	Yolanda Anda Panganiban	PARENT	Y
+108574050039	Calaranan	Crizel	Hilario		F	11/4/2001	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Rizal Ilaya	Cecilia Alonzo Hilario	PARENT	Y
+109243050070	Daniel	Danielle Ann	Rosas		F	7/11/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Dos	Emily Gasis Rosas	PARENT	Y
+108574050047	Dapula	Joanne Lael	Diolata		F	12/23/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Vilma De Gracia Diolata	PARENT	Y
+108574050059	Escobar	Deverly Ruth	Escobio		F	1/24/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Cinco	Carmelita C. Escobio	PARENT	Y
+108574050060	Escobar	Janelle	Peregrina		F	7/13/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Janeta Diestro Peregrina	PARENT	Y
+108574050064	Evangelista	Joymae	Nube		F	11/12/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Hermelita Yumul Nube	PARENT	Y
+108574050086	Hernandez	Cherry Ann	Villanea		F	7/1/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Julia Dojeta Villanea	PARENT	Y
+108574050096	Jundak	Zanny Marie	Verdadero		F	8/26/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Poblacion	Ma. Estrella Seguerra Verdadero	PARENT	Y
+	La Guardia	Justine Nicole	Tardecilla		F	4/10/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	San Roque	Amelia Mira Tardecilla	PARENT	Y
+108585050021	Maravilla	Apryl Jearena	Layman		F	4/1/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sumilang	Jeanefer Amodia Layman	PARENT	Y
+	Nuella	Aubrey	Ramirez		F	7/20/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Vilma Balmes Ramirez	PARENT	Y
+	Oblea	Ma Irene	Villanueva		F	12/3/1998	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Novella Sabigan Villanueva	PARENT	Y
+108574050156	Ordial	Rose Anne	Gonzales		F	2/3/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Corazon Gonzales	PARENT	Y
+108574050158	Paloma	Czarney Fie	Barqueros		F	2/22/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Eden Cantillana Barqueros	PARENT	Y
+	Pasamba	Edleen Harvey	Alvarez		F	4/26/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Honorina Negrillo Alvarez	PARENT	Y
+108599050021	Pastura	Precious Angel	Cano		F	5/11/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Doña Aurora	Elibeth Legare Cano	PARENT	Y
+108574050165	Pedrezuela	Aalliah Therese	Lerum		F	7/1/2000	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Baclaran	Melinda Olivera Lerum	PARENT	Y
+108574050188	Ramirez	Jennie Faith	Rico		F	11/19/1999	Grade 10	St. Claire	6/8/2015	QUEZON	CALAUAG	Viñas	Mildred Gregorio Rico	PARENT	Y
+108574050001	Agubang	Jemuel	Leonor		 M	11/28/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Uno	Raquel Martinez Leonor	PARENT	Y
+108574050024	Basto	Joenard	Alcoran		 M	9/24/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Binutas	Mary Jane Rivarez Alcoran	PARENT	Y
+108574050038	Capistrano	Marleo	Vargas		 M	8/7/1998	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Nobelita Recaña Vargas	PARENT	Y
+108574050058	Endiafe	Lorenz	Hutalla		 M	1/8/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sumilang	Lorena Jamito Hutalla	PARENT	Y
+108574050669	Fidel	Rae Vincent	Abrera		 M	5/18/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Baclaran	Felisa Lattore Abrera	PARENT	Y
+108574050097	Juvidanca	Narjohn  Ken	Villafranca		 M	10/7/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion 3	Lydia Olaya Villafranca	PARENT	Y
+	Ledda	Marvin	Sotto		 M	2/3/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Ma. Cecilla Pago Sotto	PARENT	Y
+108580050003	Leonor	Jake Renzo	Orogo		 M	11/29/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion Uno	Rossane Alba Orogo	PARENT	Y
+108847050131	Luna	Carl Angelo	Cerujano		 M	12/19/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Danlagan	Ma. Virginia Sangco Cerujano	PARENT	Y
+108574050115	Lupo	Kent Paul	Agam		 M	2/20/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Biyan	Mary Grace Andes Agam	PARENT	Y
+108607050076	Marcaida	Rico	Gerona		 M	8/25/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Maligaya	Floryda Marcelo Gerona	PARENT	Y
+108585050038	Matociños	John Lloyd	Leobia		 M	10/13/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sumilang	Evelynda Segovia Leobia	PARENT	Y
+108574050137	Mojicoa	Lawrence Rogel	Eclavea		 M	3/13/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Marjorie Paraiso Eclavea	PARENT	Y
+108600050014	Montañez	Rodel	Rioflorido		 M	5/4/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Kinalin Ibaba	Precila Rianzarez Rioflorido	PARENT	Y
+108594050013	Olanda	Michael Rovien	Magtangob		 M	12/17/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Talingting	Susana Apoin Magtangob	PARENT	Y
+108574050153	Olviga	Angelo Kim	Imperial		 M	9/30/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Alma Belara Imperial	PARENT	Y
+108574050155	Olviga	Vincent Oj	Baet		 M	8/9/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion 3	Julieta Cara Baet	PARENT	Y
+108585050043	Oropesa	Prince Aljetro	Flores		 M	6/14/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sumilang	Rufina Beltran Flores	PARENT	Y
+108583050014	Pantoja	Argelou	Cosepe		 M	12/20/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	San Roque Ilaya	Arlyn Esteban  Cosepe	PARENT	Y
+108574050162	Paraon	Ymmanuel	Mapaye		 M	8/18/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion 3	Maria Luisa Villaflor Mapaye	PARENT	Y
+108609050082	Quario	Rommel	Briagas		 M	7/26/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Aileen Zuniega Briagas	PARENT	Y
+136767050271	Redito	John Russell	Ugiul		 M	10/6/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Rizal Ibaba	Rodora Ochoa Ugiul	PARENT	Y
+108574050194	Rezare	Cris Jerald	Nalos		 M	7/7/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sabang 2	Cristina Camacho Nalos	PARENT	Y
+108607050095	Santos	Vince	Buison		 M	11/26/1998	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Josephine Datin Buison	PARENT	Y
+108574050004	Alcantara	Aira	Legion		F	4/11/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion 4	Cristita Bernal Legion	PARENT	Y
+108595050005	Alde	Jean	Jamito		F	5/19/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Binutas	Wenefrida Mendoza Jamito	PARENT	Y
+	Babao	Mara May	Morcillo		F	11/26/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion 3	Marita Nano Morcillo	PARENT	N
+108574050050	Devera	Mary Grace	Carizo		F	12/12/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Bigaan	Elizabeth Banga Carizo	PARENT	Y
+108607050037	Era	Erika	Pariñas		F	4/4/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Rosenda Diaz Pariñas	PARENT	Y
+	Geneblazo	Goerge Antoinnette	Grefalda		F	11/11/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Grace Vargas Grefalda	PARENT	Y
+173011050028	Gonzales	Maeddiel 	Espallardo		F	8/6/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Myra Calzado Espallardo	PARENT	Y
+108574050085	Guevarra	Iavy	Verdadero		F	1/7/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Marilag	Crisogona Riparip Verdadero	PARENT	Y
+108595050015	Jamito	Erika	Castillano		F	8/28/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Binutas	Liezel Laviña Castillano	PARENT	Y
+108574050121	Mangubat	Bianca May	Labaco		F	9/18/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Mabini	Gilda Imperial Labaco	PARENT	Y
+108607050074	Maniego	Mary Joy	Cabaña		F	2/6/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sabang 2	Michelle Grezula Cabaña	PARENT	Y
+108580050005	Noble	Zyrelle Anne	Pandaan		F	9/19/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Baclaran	Rosalie Marco Pandaan	PARENT	Y
+108574050178	Perez	Ma. Ellaine	Entienza		F	3/27/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Poblacion 4	Lorna Pimentel Entienza	PARENT	Y
+108574050181	Polagne	Ma. Ericka	Mojico		F	3/3/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Aniceta Buitizon Mojico	PARENT	Y
+109833050202	Santiago	Donna Mae	Andal		F	12/23/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Sumilang	Verna Atienza Andal	PARENT	Y
+108574050207	Serdinio	Jennilyn	Devis		F	4/20/2000	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Kinalin Ibaba	Letecia Geneblazo Devis	PARENT	Y
+108574050212	Tardecilla	Irha	Caña		F	7/14/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Baclaran	Sheryl Lim Caña	PARENT	Y
+108581050032	Vito	Monica Paula	Manalo		F	4/17/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Dionisia Bacay Manalo	PARENT	Y
+109259050223	Yambot	Christeel Ann	Tabarina		F	12/10/1999	Grade 10	St. John Ma. Vianney	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Venus Nadres Tabarina	PARENT	Y
+	Arroza	John Carlo	Apring		M	8/6/1998	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Cinco	Ma. Teresa Aibao Apring	PARENT	Y
+108586050020	Garcia	Christian	Bravante		M	12/25/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Viñas	Rossana Jamito Bravante	PARENT	Y
+	Latona	Jerome	Barotea		M	2/14/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Tres	Jeaneth Espinosa Barotea	PARENT	Y
+108574050108	Lizano	John Lloyd Anthony			M	12/2/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Pinagtalleran	Loida Lavela 	PARENT	Y
+	Loterte	Jay Quez	Mendaro		M	9/30/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Mabini	Prtescilla laudiana Mendaro	PARENT	Y
+108574050128	Marquez	Vince	Villamor		M	4/28/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Uno	Lourdes Arcelo Villamor	PARENT	Y
+108585050041	Olviga	Jefferson	Zalatar		M	1/12/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Biyan	Agnes  Delacruz Zalatar 	PARENT	Y
+108607050089	Pelagio	Kevin Russel	Pialo		M	6/6/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Dos	Lerizza Guasa Pialo	PARENT	Y
+108574050173	Perez	Carlos Miguel	Ramirez		M	5/22/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Cinco	Gemma Balmes Ramirez	PARENT	Y
+108606050055	Politico	John Rey	Tobias		M	9/5/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Pinagkamaliga	Judith Sibulo Tobias	PARENT	Y
+	San Jose	Jeffrey	Eleazar		M	10/10/1998	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Binutas	Vilma Agubang Eleazar	PARENT	Y
+108583050003	Allosa	Angelie	Nuella		F	11/11/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Pinagkamaligan	Anna Lou Nuella	PARENT	Y
+108574050011	Arela	Alleine	Narvaez		F	1/12/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Pinagkamaligan	Divine Villaester Narvaez	PARENT	Y
+	Cantara	Reica Mae	Flores		F	7/25/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sta. Maria	Lorencita Abrineca Flores	PARENT	Y
+	Dela Cruz	Jesabel	Fernandez		F	9/21/1998	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Uno	Emma Menes Fernandez	PARENT	Y
+108607050032	Delos Santos	Princess Gia	Magboo		F	11/28/1998	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Dos	Donalyn Atienza Magboo	PARENT	Y
+	Geneblazo	Princess Modebel	Espiritu		F	11/22/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Cuatro	Cecilia Entienza Espiritu	PARENT	Y
+1086007050066	Lozares	Joyce Ann	Regori		F	12/18/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Dos	Alicia Cariaga Regori	PARENT	Y
+108574050118	Malana	Clariss	Monterde		F	12/1/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Baclaran	Melody Reyes Monterde	PARENT	Y
+	Mangampo	Lay-Ann	Arguinez		F	3/15/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Uno	Flor Garcia Arguinez	PARENT	Y
+108600050011	Medina	Marian Joy	Ahito		F	8/29/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Kinalin Ibaba	Juvielyn Pasinabo Ahito	PARENT	Y
+108600050012	Mejino	Judy Ann	Conda		F	3/20/1999	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Kinalin Ibaba	Haide Belae Conda	PARENT	Y
+	Purca	Ma. Angela	Pondivida		F	4/2/2000	Grade 10	St. Francis	6/8/2015	Quezon	Guinayangan	Aloneros	Edna Pilar Pondivida	PARENT	Y
+	Villapando	Zendle	Malaga		F	10/15/1998	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	Sabang Dos	Marissa Morada Malaga	PARENT	Y
+108583050052	Visorde	Jissa Joy	Luenio		F	3/29/2000	Grade 10	St. Francis	6/8/2015	Quezon	Calauag	San Roque	Leonora Mindaro Luenio	PARENT	Y
+108583060008	Añonuevo	Kenneth	Morano		M	5/3/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	San Roque	Ma. Annelyn Alano Morano	PARENT	Y
+108574060040	Banogbanog	Rold Joseph	Astejada		M	9/28/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Jurine Banderada Astejada	PARENT	Y
+	Barrera	Reymond Roe	Olaivar		M	4/1/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang 2	Wennie Redelicia Olaivar	PARENT	Y
+108574060047	Bernal	John Nerson	Danseco		M	7/21/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Nenita Olaivar Danseco	PARENT	Y
+108574060053	Bongay	Raymond	Paraiso		M	8/22/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. 1	Jocelyn Paraiso	PARENT	Y
+108574060064	Canapati	Patrick	Arroyo		M	9/1/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Constancia Navalle Arroyo	PARENT	Y
+108574060068	Cantre	Diego	Madrigal		M	8/12/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang 1	Consuelo Esleta Madrigal	PARENT	Y
+	Castañeda	Marcelo	Labaco	 III	M	10/8/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Jane Villaester Labaco	PARENT	Y
+108606060018	Danseco	Elijah Alvin	Marcelino		M	5/22/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Nanette Camacho Marcelino	PARENT	Y
+108574060107	Gabriel	John Harold	Verdad		M	1/13/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Cristina Villanueva Verdad	PARENT	Y
+108574120054	Golpeo	Djon Kyle	Sasot		M	1/1/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Maria Daisy Sasot	PARENT	Y
+108574060118	Grimaldo	Algem	Dimaandal		M	4/11/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Gemma Ballesteros Dimaandal	PARENT	Y
+108574060122	Hacuda	Justine Cire	Estreller		M	8/13/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Dolores  Estreller	PARENT	Y
+	Ladraso	Bruce  Kennedy	Borjal		M	6/30/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Binutas	Mary anne Camoa Borjal	PARENT	Y
+108607060076	Manjares	Rey Mark	Muego		M	7/11/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang 2 	Mylene Macalintal Muego	PARENT	Y
+108726060044	Nicolas	Kier Andrei	Jorvina		M	4/20/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	GUINAYANGAN	Aloneros	Bernardita Masajo Jorvina	PARENT	Y
+108574060187	Osano	John Paul	Realuyo		M	8/13/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Milagrosa	Delia Armenta Realuyo	PARENT	Y
+108574060191	Panol	Limuel	Reduta		M	4/5/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. 2	Ligaya Acuesta Reduta	PARENT	Y
+108574060210	Regala	Algene	Lerum		M	5/25/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Maricel Dapula Lerum	PARENT	Y
+	Silva	Van Kenneth	Aquino		M	8/31/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang  Uno	VanessaPanganibanAquino	PARENT	Y
+108574060237	Suarez	Jervin Rhey	Requento		M	9/4/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Vivian Requinto 	PARENT	Y
+108574060242	Talolong	Daniel James	Bueno		M	2/14/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	San Roque	Evangeline Bueno	PARENT	Y
+108574060250	Villasanta	Leo Chester	Ferreras		M	3/17/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Luningning Frondozo Ferreras	PARENT	Y
+108574120493	Alvea	Jeanne Marie	Laniog		F	10/27/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Cinco	Janet Laniog	PARENT	Y
+10860706006	Ambas	Anna Ricaella	Supsupin		F	12/27/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang 2	Ana Marie  Supsupin	PARENT	Y
+108574060023	Apacible	Jhenrose	Guerrero		F	11/1/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Rosemarie Torreno Guerrero	PARENT	Y
+108574060029	Arguido	Jean Patrice	Maravilla		F	8/28/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Anawilma Indenible Maravilla	PARENT	Y
+	Barrera	Victoria Jane	Paraiso		F	11/8/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Maryjane Quiogue Paraiso	PARENT	Y
+108574060061	Caguimbal	Catherine	Visorde		F	7/28/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Joanna Devera Visorde	PARENT	Y
+108574060087	Dela Rama	Donna	Ladicho		F	5/7/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Aileen Bermundo Landicho	PARENT	Y
+108574060097	Epino	Maria Johannah	Rodriguez		F	9/21/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	San Roque	Ma.Teresa   Rodriguez 	PARENT	Y
+108574060108	Galet	Cyrine	Erulin		F	2/5/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Violeta Iglesia Erulin	PARENT	Y
+108574060125	Ibañez	Ella Jenelle	Evangelista		F	3/18/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Edna Dollente Evangelista	PARENT	Y
+108613060019	Javier	Raebelle	Villaos		F	1/16/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Ipil	Vilma Pacay Villaos	PARENT	Y
+108574060139	Leonor	Lira Joy	Peda		F	9/14/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Baclaran	Lorna Juvida Peda	PARENT	Y
+108574060141	Limcuando	Anjelica Hannah	Guariña		F	5/12/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Poblacion	Agnes Asiado Guariña	PARENT	Y
+108574060158	Maraña	Megan	Sadia		F	9/15/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Madonna Opeda Sadia	PARENT	Y
+	Marqueses	Dana Isabella	San Antonio		F	8/15/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Maryjane Arines San Antonio	PARENT	Y
+108574060160	Marqueses	Gia	Juego		F	6/18/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang  2	Lea Coral Juego	PARENT	Y
+108574060162	Matias	Mareenel	Recaña		F	10/12/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Cinco	Mercidita Parafina Recaña	PARENT	Y
+108582060027	Medes	Shara Mae	Villaseñor		F	5/27/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Rizal 	Erlinda Targa Villaseñor	PARENT	Y
+	Nuñez	Bernadette	Victor		F	10/5/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Helen  Tañazan  Victor	PARENT	Y
+108594060019	Rodelas	Mary Grace	Dooc		F	3/23/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagsakayan	Prospera Olaya Dooc	PARENT	Y
+108574060217	Saez	Dayanara Chrystelle	Sargento		F	9/17/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy.2	Marivic Mirabel Sargento	PARENT	Y
+108574060228	Sayno	Trisha Marie	Villaos		F	10/29/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Mary Ann Camacho	PARENT	Y
+108574060230	Severo	Christian Joy	Lim		F	10/2/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Sabang 1	Cindy Tan Lim	PARENT	Y
+	Silverio	Raizen Sandi	Tarrega		F	11/4/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Cinco	Mafhey Montoya Tarrega	PARENT	Y
+10857406233	Sobrepeña	Maria Iris Sofia	Mendoza		F	3/29/2001	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Cinco	Maila Banagan Mendoza	PARENT	Y
+108582060036	Vasquez	Eloisa	Balonzo		F	5/30/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. Rizal 	Basilisa Tongo Balonzo	PARENT	Y
+108574120007	Villaverde	Angel Marie	Ansay		F	7/18/2000	Grade 9	St. Anthony	6/8/2015	QUEZON	CALAUAG	Brgy. 3	Sharon  Barron Ansay	PARENT	Y
+108574060002	Abanto	Mark Dave	Dela Fuente		M	3/31/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Binutas	Eva Tabares Dela Fuente	PARENT	
+	Anacion	Mark Benjamin	Dayao		M	1/25/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Leah Marie Dela Cruz Dayao	PARENT	
+	Barrera	John Carlo	Delos Santos		M	9/16/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Imelda Loresto Delos Santos	PARENT	
+108574060063	Cana	Justin Ramil	Ybanez		M	12/22/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Maxima Agnes Dequito Ybanez	PARENT	
+108574060073	Castaneda	Charles John	Dolores		M	7/2/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Quatro	Jesusa Dolores	PARENT	
+108574060086	Dela Pena	Dejay	Entico		M	2/6/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Tres	Divina Bolima Entico	PARENT	
+	Estrella	Ervin	Villamin		M	5/1/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Hershey Ramiscal Villamin	PARENT	
+108574060105	Frias	Christian	Bautista		M	1/13/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Imelda Cayme Bautista	PARENT	
+108574060121	Gutierrez	Charles Efrain	Arquiza		M	12/1/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Annalyn Toribio Arquiza	PARENT	
+108574060133	Jorvina	Marvin	Quejada		M	11/22/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	TAGKAWAYAN	Cabugwang	Marlyn Felicidario Quejada	PARENT	
+	Matriano	Rayniel	Diaz		M	7/26/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Elsinor Olviga Diaz	PARENT	
+108574060150	Magsino	Paul Jheyvee	Hacuda		M	7/5/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Ma. Vivian Seguerra Hacuda	PARENT	
+108574060166	Mendoza	Jomarie Jake	Torres		M	1/28/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Cinco	Matilde Zuniega Torres	PARENT	
+108574060167	Meneses	Victor Angelo 	Loterte		M	12/16/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Patihan	Laila Perolina Loterte	PARENT	
+108843060085	Ogayon	Romeo	Devera	Jr	M	2/18/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Isidra Ruasa Devera	PARENT	
+	Paulite	Alvin	Avilla		M	1/4/2006	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Thelma Tanazana Victor	PARENT	
+108574060215	Rufino	John Piolo	Marca		M	12/26/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Lucila Lerum Marca	PARENT	
+108574060222	Sales	Miguel Wilbur	Fernandez		M	1/18/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Uno	Amelita Fernandez Diokno	PARENT	
+108574060223	Saliendra	John Andrie	An		M	10/21/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Quatro	Marilyn Sapanza An	PARENT	
+108606060068	Sta Ana	John Ruzzel	Moico		M	9/7/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Rosalina Moico Manalac	PARENT	
+	Tan	John Xander	Adormeo		M	3/4/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Vivian Adormeo	PARENT	
+	Villafuerte	Jemuel	Milaor		M	11/8/1999	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Wilma Cuala Milaor	PARENT	
+108606060002	Abogado	Donna Mae	Capina		F	1/11/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Patihan	Marilyn Capina Carcer	PARENT	
+108574060024	Arañas	Erica Lei	Dela Cruz		F	7/22/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Leah Marie Dela Cruz Dayao	PARENT	
+173011060025	Bea	Ericka	Bolanos		F	9/4/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Imelda Loresto Delos Santos	PARENT	
+108574060060	Cabangon	May Ann	Amazona		F	5/22/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Maxima Agnes Dequito Ybanez	PARENT	
+108587060002	Cañete	Jenelyn	Barros		F	1/15/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Ma. Alicia Salvacion Barros	PARENT	
+108574060074	Castañeda	Kristine Mae	Dolores		F	6/6/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Quatro	Jesusa Devera Dolores	PARENT	
+108606060013	Castillo	Krisia Mae Pauline	Nacion		F	11/6/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Wilma Gupit Nacion	PARENT	
+108607060027	Delos Santos	Ivy Marie	Magboo		F	5/1/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Donalyn Atienza Magboo	PARENT	
+108574060095	Entienza	Ma. Rosario	Decozar		F	7/13/1999	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Cinco	Rosalia Aguirre Decozar	PARENT	
+108574060096	Entienza	Rose Marie 	Decozar		F	7/13/1999	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Cinco	Rosalia Aguirre Decozar	PARENT	
+	Flores	Dennise Danica	Igos		F	8/2/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Geralyn Ardevela Igos	PARENT	
+108574060117	Gerona	Princess Apple	Cairel		F	1/10/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Lea Segui Cairel	PARENT	
+108606060031	Hernandez	Ivy Joy 	Lazona		F	10/31/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Rosario Intorva Lazona	PARENT	
+108574060134	Joson 	Bernadeth	San Antonio		F	11/22/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Ancita Persia San Antonio	PARENT	
+108574060142	Lipnica	Chelsea Kate	Laron		F	6/4/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Kinalin Ibaba	Mae Laron Magdael	PARENT	
+108574060155	Manalo	Xysterma	 Mago		F	8/23/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Zenaida Mago Calag	PARENT	
+108574060154	Mañalac	Kiana Lerinna 	Ambas		F	8/15/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Tres	Evangeline Olivar Ambas	PARENT	
+108606060040	Marca	Camille Ann	Marana		F	6/1/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Dos	Lourdita Cana Marana	PARENT	
+108606060041	Marca	Marian Rose	Baco		F	6/10/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Monica Lagrona Baco	PARENT	
+	Mijares	Ma. Cecille	Vasquez		F	6/8/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Jocel Merjilla Vasquez	PARENT	
+108607060091	Parungao	Catherine	Mondigo		F	5/22/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Virginia Benvinoto Mondigo	PARENT	
+108599060038	Pastura 	Kristine Kaye	Cano		F	9/18/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Dona Aurora	Elibeth Legare Cano	PARENT	
+108574060193	Pelonia	Renee	Manaog		F	1/14/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Elma Manaog Samonte	PARENT	
+108594060020	Rodelas	Mary Joy	Olaya		F	7/24/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Dos	Prospera Olaya Dooc	PARENT	
+	Salas	Brigette Ann	Mujar		F	1/23/2001	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Quatro	Ma. Fe Durian Mujar	PARENT	
+108574060224	Salvador	Criza Rona	Teodoro		F	10/16/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Rowena Olea Teodoro	PARENT	
+112866060041	Trillanes	Mikaella	Borbe		F	6/4/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Eufemia Jarilla Borbe	PARENT	
+	Vista	Jenny Jay	Tampoy		F	11/19/2000	Grade 9	St. Thomas	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Jennifer Tampoy	PARENT	
+108574060011	Alcantara	Jayson	Bataluna		M	11/7/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cinco	Luzviminda Narvasa Bataluna	Parent	Y
+108574060027	Argonia	Mark Austin	Magsombol		M	3/3/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagtalleran	Lourdes Banta Magsombol	Parent	Y
+108606060007	Barrera	Kim	Evangelista		M	10/29/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Imelda Manzera Evangelista	Parent	Y
+10859506011	Basto	Reymark	Candelaria		M	10/7/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Binutas	Emelyn Banta Candelaria	Parent	Y
+108574060075	Catarining	Kenneth	Breganio		M	9/2/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Patihan	Editha Villasaya Breganio	Parent	Y
+108607060028	Diaz	Juan Paulo	Marca		M	1/15/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Renita Lerum Marca	Parent	Y
+108574060117	Gonzales	George	Ricablanca		M	8/12/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Bigaan	Gemma Romero Ricablanca	Parent	Y
+108574060123	Hombre	Rabparker	Pusing		M	8/26/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Villa San Isidro	Jessica Castillo Pusing	Parent	Y
+108607060079	Japen	Jaymer	Merca		M	4/16/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Melanie Belarmono Merca	Parent	Y
+108615060007	Latonero	Mark Jay	Macabuhay		M	5/5/1999	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Villa Magsino	Florenia Losande Macabuhay	Parent	Y
+108574060145	Loyosa	Emerson	Escobio		M	7/7/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cinco	Erlinda Cortes Escobio	Parent	Y
+108585060014	Olviga	Jamewell	Zalatar		M	10/3/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Biyan	Agnes Dela Cruz Zalatar	Parent	Y
+108574060194	Pen?a	Hank Zeus Ulysses	Abu		M	1/21/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Maria Ella Lopez  Abu	Parent	Y
+108574060195	Pen?aflor	Pierce Ivan	Balino		M	7/27/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Baclaran	Anna Liza Aborquez Balino	Parent	Y
+108574060187	Perez	Jireco	Borja		M	5/28/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagtalleran	Analiza      Borja	Parent	Y
+108574060198	Perez	Mark Piolo	Entienza		M	10/31/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cuatro	Lorna Pimentel Entienza	Parent	Y
+108574060207	Quiogue	John Carlo	Tardecilla		M	4/4/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Edna Ragsag Tardecilla	Parent	Y
+108607060103	Robis	Sanny	Liwanag		M	4/29/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Dos	Vilma Danseco Liwanag	Parent	Y
+108574060214	Rotao	Christian Gil	Villasanta		M	7/13/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Baclaran	Almera Lea Lipata Villasanta	Parent	Y
+108609060104	Trapane	Mark Dominic	Narvaez		M	6/28/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagbayanan	Meda Batildo Narvaez	Parent	Y
+108574060244	Umali	Jonard	Lajato		M	11/17/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagbayanan	Maribeth Endaya Lajato	Parent	Y
+108800060005	Aguelo	Erica	Buella		F	9/22/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Marilag	Adelaida Espenosa Buella	Parent	Y
+108574060007	Aguila	Maria Michaela	Ajero		F	12/4/1998	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Margarita Avendan?o Ajero	Parent	Y
+108574060034	Avila	Shiena	Almacen		F	10/24/1999	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sta. Maria	Mafe  Luna Almacen	Parent	Y
+108572060002	Barotea	Lindzay	Pedido		F	3/31/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Uno	Rizza Andes Pedido	Parent	Y
+108574060054	Bonilla	Harlene			F	3/12/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Dos	Rosalina Sargento Bonilla	Parent	Y
+108574060067	Cantollas	Stephanie	Fontanilla		F	1/8/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagtalleran	Jill No Fontanilla	Parent	Y
+108607060018	Cerdin?a	Mary Joy	Marca		F	10/10/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Uno	Julia Lerum Marca	Parent	Y
+108843060037	Contrevida	Girley	Abinoman		F	11/12/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Tres	Shirley Cordova Abinoman	Parent	Y
+108574060078	Coral	Joyce	Ramos		F	8/29/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cinco	Rosita Galman Ramos	Parent	Y
+108574060080	Dapula	Raina Andrei	Magsino		F	6/30/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cinco	Conchita Elnar Magsino	Parent	Y
+108607060029	Dominguez	Shannon Marie	Dela Cruz		F	11/21/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Dos	Ma. Evalour     Dela Cruz	Parent	Y
+108609060034	Eraula	Rhea Jhean	Ran?osa		F	12/28/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sta. Maria	Lea Manjares Ran?osa	Parent	Y
+10857406011	Geneblazo	Almira Angelica	Quimco		F	8/18/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Dos	Yolanda dela Cruz Quimco	Parent	Y
+108805060093	Lantin	Ma. Athina Mae	Labso		F	6/17/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Lopez	Hondagua	Anita Sta. Rosa Labso	Parent	Y
+108574060151	Malana	Shienelyn	Lerio		F	11/26/1999	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cinco	Jerlyn Ansog Lerio	Parent	Y
+108606060043	Mariquit	Rosecilla	Dela Concepcion		F	8/30/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagkamaligan	Maricel    Dela Concepcion	Parent	Y
+108925060068	Quejada	Ericka	Haboc		F	10/4/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Tagkawayan	Cabuguang	Marites Paclibar Haboc	Parent	Y
+108606060065	Sasot	Angeline	Grieta		F	9/17/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Dos	Angelina Ajero Grieta	Parent	Y
+108607108611	Siazon	Jeraldyn	Hermo		F	9/15/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sta. Maria	Imelda Veloso Hermo	Parent	N
+108574060232	Sibulo	Erica	Serrano		F	6/8/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Brgy. Cuatro	Julieta Puryo Serrano	Parent	Y
+108607060112	Tolentino	Aira May	Jorvina		F	2/5/2001	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Sabang Dos	Lanie Intoy Jorvina	Parent	Y
+173012060053	Vasquez	Marisol	Atajar		F	12/3/2000	Grade 9	Saint Andrew	6/8/2015	Quezon	Calauag	Pinagkamaligan	Mirian     Atajar	Parent	Y
+108574060013	Alcantara	Aljohn	Corde		M	7/28/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sta.Maria	Nancy Corporal Corde	PARENT	Y
+108607060004	Alim	Janmel	Reblando		M	1/2/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Patihan	Luisa Aquino Reblando	PARENT	Y
+108726060011	Austria	John Allen	Surbona		M	7/7/2001	Grade 9	St. Paul	6/8/2015	Quezon	Guinayangan	Aloneros	Maritess Surbona Austria	PARENT	Y
+108583060011	Balacday	Jerome	Gallo		M	7/18/2001	Grade 9	St. Paul	6/8/2015	Quezon	Guinayangan	San Antonio	Cynthia Estita Gallo	PARENT	Y
+108614060008	Bautista	Gerald	Fidel		M	2/1/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Tiniguiban	Elizabeth Abasola Fidel	PARENT	Y
+108574060047	Bernabe	Kent Jude	Pen?aranda		M	1/12/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Brgy.Uno	Rowena Orcenal Pen?aranda	PARENT	Y
+136704060031	Blanco	Noelito	Sial		M	11/20/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sabang Dos	Elizabeth Laurena Sial	PARENT	Y
+108574060055	Bravo	Al John	Argamosa		M	6/13/2001	Grade 9	St. Paul	6/8/2015	Quezon	Guinayangan	Gapas	Alicia Requiron  Argamosa	PARENT	Y
+108574060056	Breganio	Aaron	Olviga		M	7/12/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Bigaan	Melanie Jariel Olviga	PARENT	Y
+108581060006	Buenaobra	Benedick	Balonzo		M	9/10/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Brgy.Dos	Winefreda Tungo Balonzo	PARENT	Y
+108599060013	Cuya	Lance Michael	Cahilig		M	1/15/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Don?a Aurora	Elizabeth Hiponia Cahilig	PARENT	Y
+108574060089	Dichoza	Jomark	San Jose		M	11/4/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Binutas	Lorna Calubayan San Jose	PARENT	Y
+108585060028	Macinas	Melviray	Noriesta		M	11/20/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sumilang	Violeta Argoso Noriesta	PARENT	Y
+108585060036	Moico	Rodolfo	Abatsula		M	11/4/1999	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sumilang	Marilou Abatsula	PARENT	Y
+108607060084	Noguerra	Justin Lloyd	Jetahobe		M	10/6/1999	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Pinagkamaligan	Annalyn Jitahobe	PARENT	Y
+136694060385	Pagorogon	Ray	Rodriguez		M	12/6/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sta. Rosa	Catherine Roxas Rodriguez	PARENT	Y
+108606060055	Politico	John Michael	Tobias		M	8/2/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Pinagkamaligan	Judith Sibulo Tobias	PARENT	Y
+108585060055	Salas	Jan Michael	Folloso		M	11/9/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sumilang	Josefina Conde Folloso	PARENT	Y
+	Sebial	Michaelangelo	Mendoza		M	5/14/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sta. Maria	Jinalyn Sacopla Mendoza	PARENT	Y
+108587060014	Saludadez	Delmar	Buhos		M	6/23/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Talingting	Marisol Gulane Buhos	PARENT	N
+108607060111	Tausa	Romeo Bibiano Jay	Aguilar		M	9/3/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sabang Dos	Rio Gerona Aguilar	PARENT	Y
+108607060115	Umali	Earl Josua	Fullante		M	5/31/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sabang Dos	Soledad Siazon Fullante	PARENT	Y
+108607060124	Villapando	Cyrill	Malaga		M	9/7/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sabang Dos	Marissa Morada Malaga	PARENT	Y
+108179120338	Zoleta	Yhuwan Clayde	Santiago		M	12/19/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Brgy. Uno	Nic Lyn Joy  Santiago	PARENT	Y
+108583060004	Alday	Hazel Ann	Offemaria		F	2/12/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	San Roque Ibaba	Amelia Calipayan Offemaria	PARENT	Y
+108606060003	Ambas	Liezel	Casia		F	3/16/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Pinagkamaligan	Lerma Boaloy Casia	PARENT	Y
+108591060002	Balanac	Deza	Totanes		F	10/4/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Anas	Eleonor Coronacion Totanes	PARENT	N
+108606060020	Del Rosario	Regine	Carcer		F	1/26/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Patihan	Josephine Capin?a Carcer	PARENT	Y
+108606060028	Gonzaga	Christine Jhoy 			F	12/17/1999	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Pinagkamaligan	Ma. Ella Lucido Gonzaga	PARENT	Y
+108607060044	Grimpola	Hanzel	Buison		F	4/5/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sabang Dos	Melinda Datin Buison	PARENT	Y
+108606060032	Indecio	Annrey	Llanita		F	6/29/1999	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Pinagkamaligan	Anita Reypo Llanita	PARENT	Y
+108574060157	Mapaye	Marjory	Carizo		F	6/3/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Bigaan	Ma. Bernarditha Banga Carizo	PARENT	Y
+108581060031	Nitor	Trisha Mae	Venoya		F	8/15/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Pinagtalleran	Nenita    Venoya	PARENT	Y
+108574060182	Ordonio	Zaira	Lizano		F	4/5/2001	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Binutas	Zenaida Ragay Lizano	PARENT	Y
+108607060108	Sasot	Angelica	Matriano		F	12/17/2000	Grade 9	St. Paul	6/8/2015	Quezon	Calauag	Sabang Dos	Cristina Bante Matriano	PARENT	Y
+108547070001	Abasolo	Kurt Russel	Leonor		M	1/26/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Baclaran	Jose Sonny N. Abasolo	Parent	Y
+108574070024	Balon	John Cesar	Moises		M	6/13/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Villa Sara	Emmanuel R. Balon	Parent	Y
+108574070027	Banogbanog	Russel Jun	Astejada		M	12/18/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagkamaligan	Ronald L. Banogbanog	Parent	Y
+	Beso	Victor Farrel Angelo	Argamosa		M	2/25/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Victor A. Beso	Parent	Y
+108574070042	Brutas	Alfonso	Paguio		M	3/31/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Diomedes T. Brutas	Parent	Y
+108574070047	Camacho	Ian Jasper	Alano		M	2/26/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Uno	Henry R. Camacho	Parent	Y
+	Lagsit	Vrenzho	Nimo		M	8/16/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Alfredo A. Lagsit	Parent	Y
+108574070130	Leonor	John Earlson	Verdan		M	9/17/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Peter San P. leonor	Parent	Y
+108609070067	Macabuhay	Isaac Derwin	Nicolas		M	9/19/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagbayanan	Denver E. Macabuhay	Parent	Y
+108574070175	Narvaez	John Harold	Rancho		M	5/12/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Cinco	Benito R. Narvaez Jr.	Parent	Y
+108726070044	Nicolas	Kian Amiel	Jorvina		M	3/3/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Baclaran	Allan  O. Nicolas	Parent	Y
+	Recio	Jarrel	Andal		M	8/29/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sabang Uno	Roderick A. Recio	Parent	Y
+108574070219	Reyes	Reyguer	Talento		M	1/22/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Cinco	Pablito G. Reyes	Parent	Y
+108574070234	Santos	Jowelden	Macabuhay		M	1/28/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Uno	Joel O. Santos	Parent	Y
+108574120027	Siazon	John Victor	Nang		M	7/2/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Manuel B. Siazon	Parent	Y
+108607070016	Arcenal	Ann Trixie	Martirez		F	10/2/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sabang Dos	Roylan E. Arcenal	Parent	Y
+108574120022	Aureada	Andrea Nicole	Mercado		F	5/5/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Arturo M. Aureada	Parent	Y
+108574070028	Barberan	Princess Desarrie	Mirabuenos		F	5/16/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Richard H. Barberan	Parent	Y
+	Barrera	Camille	Delos Santos		F	12/20/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sabang Uno	Carlito P. Barrera	Parent	Y
+108574070046	Cabral	Prince Dianah	Alano		F	7/15/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	San Roque	Luis  R. Cabral	Parent	Y
+108585070016	Cruzat	Rachel Mae	Pacuribot		F	7/12/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sumilang	Ricardo V. Cruzat	Parent	Y
+108574120026	Esguerra	Hannah Aliyah	Eduarte		F	8/19/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagtalleran	Ranilo F. Esguerra	Parent	Y
+108574070084	Estilar	Lindsay	Querubin		F	4/19/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Dos	Rommel J. Estilar	Parent	Y
+108574070085	Fernandez	Lyclaire	Hutalla		F	6/9/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Dos	Luisito R. Fernandez	Parent	Y
+108574070087	Gamalinda	Reign Francine	Atendido		F	11/5/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagkamaligan	Ruel D. Gamalinda	Parent	Y
+108607070054	Gresola	Aj Zaerel	Amada		F	11/30/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sabang Dos	Jenny T. Gresola	Parent	Y
+108574070115	Jariel	Maybelyn	Dela Cruz		F	9/23/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagkamaligan	Cesar V. Jariel	Parent	Y
+108574070123	Lacopia	Ma. Angelica	Japone		F	9/2/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Rolando  I. Lacopia	Parent	Y
+108574070124	Lacsamana	Marahelen	Alcantara		F	6/12/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sta. Maria	Rico B. Lacsamana	Parent	Y
+108574070126	Launio	Yeill Jallen	Olea		F	7/19/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Uno	Arnel D. Launio	Parent	Y
+108574070139	Loria	Beanine Trisha	Arabiran		F	8/21/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Tres	Rommel V. Loria	Parent	Y
+108574070140	Loria	Lourdes	Mascardo		F	1/29/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Cinco	Felino A. Loria	Parent	Y
+108574070148	Macaraig	Maxene			F	6/15/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Baclaran	Rachelle W. Macaraig	Parent	Y
+108574120024	Magsombol	Ashley Nicole	Eduarte		F	3/23/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy.  Cinco	Philip B. Magsombol	Parent	Y
+108607070086	Mangampo	 Mariel	Deocariza		F	8/29/1997	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sabang Dos	Luis M. Mangampo	Parent	Y
+108574070159	Masaga	Ladielyn	Hernandez		F	10/11/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Bagong Silang	Fidel R. Masaga	Parent	Y
+	Mijares	Michelle Ann	Vasquez		F	5/18/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagkamaligan	Jesus E. Mijares Jr.	Parent	Y
+108607070096	Montezon	Jolinamar	Doctolero		F	7/13/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sabang Dos	Marcelino G. Montezon	Parent	Y
+	Nacor	 Diane	Geneblazo		F	2/7/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Guinayangan	Danlagan	Rodante R. Nacor	Parent	Y
+108574070176	Navarro	Harumi	Pulgar		F	6/14/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy. Cinco	Jerwin T. Navarro	Parent	Y
+108574120025	Porbusa	 Mary Rose	Alviso		F	1/14/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy Dos	Maribel G. Porbusa	Parent	Y
+108574070207	Prada	 Angel Lyka	Dolores		F	12/29/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Bigaan	Geronimo R. Prada	Parent	Y
+	Racoma	Mona Josephine	Bariso		F	6/25/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagtalleran	Ramon  B. Racoma	Parent	Y
+108574070217	Ramirez	Niko	Rico		F	10/31/2000	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Vinas	Aurelio D, Ramirez	Parent	Y
+108574070218	Reminal	Hiyasmin	Fernandez		F	2/3/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Brgy Uno	Romeo  M. Reminal	Parent	Y
+108574120040	Roxas	 Arra Minda	Geneblazo		F	11/13/2000	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagtalleran	Ramil B. Roxas	Parent	Y
+108574070236	Sarmiento	Pauline Angelique	Bombita		F	5/6/2002	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagbayanan	Paulino D. Sarmiento	Parent	Y
+108574070238	Sibulo	Ma. Vernadette	Macasinag		F	10/15/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Baclaran	Ronald T. Sibulo	Parent	Y
+	Tan	Franchesca	Rosales		F	6/17/2001	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Pinagtalleran	Ferdinand L. Tan	Parent	Y
+108574070267	Zuela	Xenia	Jalina		F	1/29/2003	Grade 8	St.  Agnes	6/8/2015	Quezon	Calauag	Sumilang	Antonio  G.  Zuela Jr.	Parent	Y
+	Abua	Adrian  Aelord                       	Hernandez		M	2/26/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgyy.  Sabang  2	Medel  V.  Abua	Parent	N
+108595070012	Basto	Chester	Candelaria		M	9/24/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Binutas	Romel  A.  Basto	Parent	Y
+108726070013	Bataller	Denmark	Dimarucot		M	5/18/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Aloneros	Melecio  R. Bataller   Jr.	Parent	Y
+	Butardo	Aljo  Kier	Mosquite		M	2/2/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Pinagtalleran	Alexander  A.  Butardo	Parent	Y
+108607070041	Ebiernas	Christian	Lascano		M	4/10/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Sabang  2	Federico  T.  Ebiernas	Parent	Y
+108606070024	Empleo	Ralph  Christian	Ignacio		M	9/10/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Pinagkamaligan	Efren   A.  Empleo   Jr.	Parent	Y
+	Estrella	Evan	Villamin		M	7/21/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.Sta.  Maria	Erwin    E.  Estrella	Parent	Y
+108574070086	Florido	Jhon  Milo	Mustera		M	3/8/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sta  Maria	Marcelo  N.  Florido	Parent	Y
+108574070098	Gutierrez	John  Jefferson	Omaña		M	4/13/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sta  Maria	Menandro  G.  Gutierrez	Parent	Y
+108574070103	Ibatuan	John  Michael	Macasinag		M	1/7/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sumilang	Eduardo  N.  Ibatuan	Parent	Y
+108570070016	Inofre	Mark  Allen	Larcena		M	5/6/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  5	Mario  V.  Inofre	Parent	Y
+108574070114	Jacob	Jhun  Leo	Maravilla		M	3/16/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. 2	Leopoldo   L.  Jacob	Parent	Y
+108574070155	Marca	Williiam  Liester	Salvanera		M	11/10/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Pinagtalleran	Winylito  L.  Marca	Parent	Y
+108574070160	Masaganda	Christian  Jay	Santiago		M	6/15/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  1	Eustacio  M.  Masaganda	Parent	Y
+	Navelgas	Rolan Emmanuel Dominique	Francia		M	3/7/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. 1	Rolando  A.  Navelgas	Parent	Y
+108574070186	Olviga	Aldrin  Lorenz	Imperial		M	8/14/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Sta.  Maria	Ariel  M.  Olviga	Parent	Y
+108574070189	Paloma	Kyle Czairus	Barqueros		M	11/1/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Pinagkamaligan	Joel C.  Paloma	Parent	Y
+	Reyes	Ron  Howard	Cerujano		M	5/10/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. 1	Loe    G.  Reyes	Parent	Y
+108574070253	Valleza	Rob  Zedrick	Olviga		M	1/7/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Baclaran	Giovanni  Y.  Valleza	Parent	Y
+108607070014	Antillon	Maria  Kristina	Guay		F	11/3/2000	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang 2	Xavier     G.  Antillon	Parent	Y
+1086014070004	Bautista	Giselle	Fidel		F	9/22/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Pinagtalleran	Virgilio  C.  Bautista	Parent	Y
+108607070028	Brazal	Monique	Sta Ana		F	3/12/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Binutas	Rosauro  P.  Brazal	Parent	Y
+108800070009	Buella	Michaella	Intoy		F	7/8/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Marilag	Juanito F.  Buella	Parent	Y
+108606070016	Castillo	Kathleen  Jane	Nacion		F	12/10/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Pinagkamaligan	Eugenio  C.  Castillo	Parent	Y
+108574120034	Delos  Reyes	Daniella  Rose	Gabriel		F	11/23/1999	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.   Sumilang	Leonardo   A.  Delos Reyes	Parent	Y
+112201070020	Dematera	Wena	Altovar		F	9/12/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sta.  Maria	Henry   A.  Dematera	Parent	y
+	Flores	Dennishe	Igos		F	4/22/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang 2	Dennis  D.   Flores	Parent	Y
+108599070011	Flores	Juwaher   Vi	Lorensana		F	4/16/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Doña   Aurora	Virgilio   M.   Flores	Parent	Y
+136762070091	Garcia	Princess  Joy  	Evangelista		F	10/12/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Pinagtalleran	Brigido   L.   Garcia	Parent	y
+108574070089	Geneblazo	Pearly    Kate	Ela		F	10/11/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  5	Wilfredo  B.  Geneblazo	Parent	y
+108606070034	Gresola	Alondra  Mae	Cadiz		F	1/15/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang 2	Carlo  S.   Gresola	Parent	Y
+108574070133	Lipnica	Jana	Orgeta		F	4/16/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Kinalin	Jayson  S.  Lipnica	Parent	Y
+108574070136	Llave	Decelyn	Delen		F	12/7/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Kinalin	Nomeriano  M.   Llave	Parent	y
+108574070138	Loresto	Christle	Dela Cueva		F	6/1/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  5	Elmer  D.  Loresto	Parent	Y
+108574070154	Marasigan	Allysa  Marie	Aniel		F	10/20/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang 1	Rene  N.  Marasigan	Parent	y
+108585070039	Maravilla	Ma. Colline  Via	Layman		F	1/3/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sumilang	Ranil  A.  Maravilla	Parent	Y
+108574070168	Mirabuenos	Aizel	Mojico		F	10/4/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  1	Arnold  G.   Mirabuenos	Parent	Y
+108606070052	Nicolas	Nicole  Angelu	Villaos		F	9/26/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Pinagkamaligan	Joselito  L.  Nicolas	Parent	Y
+108607070104	Olivar	Alexa  Jeanne	Peñamora		F	7/27/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy. Sabang 2	Edgardo  A   Olivar	Parent	Y
+108574070188	Pacinos	Ma.  Nicole	Licas		F	6/11/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Pinagkamaligan	Nelson  P.  Pacinos	Parent	y
+108607070110	Pelagio	Kiana  Rose	Pialo		F	3/10/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang  2	Nelson  P.  Pelagio	Parent	y
+108574070237	Siazon	Czarmaine	Musngi		F	7/8/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sta.  Maria	Claude  O.  Siazon	Parent	Y
+	Silverio	Neonne  Hayle	Tarrega		F	5/4/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  5	Estilito  P.  Silverio	Parent	Y
+108574070257	Villamarso	Gillianna  Joy	Antonio		F	3/27/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang 1	Gilbert  M.  Villamarso	Parent	Y
+108574070259	Villarubia	Maria  Coleen			F	4/15/2002	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sta  Maria	Dennis  V.  Medes	Parent	Y
+108607070136	Vilalaverde	Christine	Manjares		F	12/16/2001	Grade 8	St. Agatha	6/8/2015	Quezon	Calauag	Brgy.  Sabang2	Nelson  G.   Villaverde	Parent	Y
+108574070002	Ables	Leonard Brix	Driz		 M	4/25/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Cingco	Marilyn Aguilar Driz	PARENT	Y
+10857400009	Almia	Abel	Angulo		 M	8/15/2000	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Dapdap 	Lean Olvido Angulo	PARENT	Y
+108574070010	Aloro	John Liester	Javier		 M	12/15/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Millarosa	Celeste Javier 	PARENT	Y
+108574070039	Binghay	Lloyd Andrew	Labaco		 M	7/16/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Dos	Merced Escobio Labaco	PARENT	Y
+108574070048	Caña	Renzo Miguel	Segarra		 M	4/25/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Tres	Neneth Jundak Seguerra 	PARENT	Y
+	Eyo	Khristian Jae	Vargas		 M	12/23/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag 	Bry.5	Liza D.Vargas	PARENT	Y
+108607070067	Haboc	John Kenneth	Lopez		 M	10/9/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Dos	Merly Grifalda Lopez	PARENT	Y
+108574070120	Jundak	Randyll			 M	3/10/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Uno	Roneth Macabuhay Jundak	PARENT	Y
+108609070068	Macasinag	Rico John Del	Leonidas		 M	3/28/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagbayanan	Rowena Leonidas 	PARENT	Y
+108607070087	Maniego	Darrel	Ebiernas		 M	4/25/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Dos	Marilyn Tapalla Ebiernas	PARENT	Y
+108574070165	Mendoza	Neil Brian	Llanto		 M	7/23/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Guinayangan	Danlagan 	Gemalyn Llanto	PARENT	Y
+108574070173	Moreno	Winsllet	Ilagan		 M	6/29/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	San Roque 	Ofielia Balmes Ilagan	PARENT	Y
+108574070184	Oliet	Marcel	Buelo		 M	8/4/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sta. Maria	Maricel Sunga Buelo	PARENT	Y
+	Paraiso	Jobert Angelo	Avendaño		 M	8/2/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sumilang	Lerio Macinas Avenda?o	PARENT	Y
+108608070009	Payawal	Edison	Joson		 M	9/24/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagtalleran	Agueda Mendonis Joson	PARENT	Y
+	Pitero	John Francis	Vista		 M	9/18/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagtalleran	Jean Vista Pitero	PARENT	Y
+108547070226	Ruz	John Leonard	Cabral		 M	5/22/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag 	Sabang 1	Flordeliza H Cabral	PARENT	Y
+108609070117	Targa	Arjonel	Cervantes		 M	12/7/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sta. Maria	Josefina Alcantara Cervantes	PARENT	Y
+108574070244	Tiama	Jethro King	Contreras		 M	2/18/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sta. Maria	Girly Paz Licas Contreras	PARENT	Y
+108607070135	Villapando	Lexter Jamil	Malaga		 M	9/16/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Dos 	Marisa Morada Malaga	PARENT	Y
+108585070062	Zalatar	Mark Jhon	Mirabite		 M	3/27/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Biyan	Vivian Degal Mirabite	PARENT	Y
+108607070011	Ambas	Rheana Marie	Supsupin		F	4/3/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Dos	Ana Marie Mimay Supsupin	PARENT	Y
+108607070015	Aquino	Sherynil	Nimo		F	7/24/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Uno	Sherrlyn Mendoza 	PARENT	Y
+108574070030	Barrios	Jeajel  Anne	Nano		F	11/26/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagtalleran	Amelia Mercado Nano	PARENT	Y
+108606070008	Broqueza	Jayvelyn	Villaester		F	4/6/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Patihan	Evelyn V. Villaester	PARENT	Y
+108619070056	Dingalan	Jairish			F	9/19/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Baclaran	Crisabel	PARENT	Y
+108607070064	Guiling	Precious Mae	Jorvina		F	8/30/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Dos	Marissa Jorvina	PARENT	Y
+108574070105	Imperial	Caressa	Marcial		F	8/10/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagtalleran	Teodora Bico Marcial	PARENT	Y
+108574070108	Ingente	Shane	Lumabas		F	7/22/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Cingco	Alma Manjarez 	PARENT	Y
+108574070132	Leyda	Quency Aseiah	Pedrezuela		F	4/21/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagtalleran	Amera Pedrezuela Leyda	PARENT	Y
+	Lim	Jean Kayla	Abas		F	2/13/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Cingco	Mary Ann Ambas	PARENT	Y
+108847070116	Luna	Kathlene Gian	Cerujano		F	10/3/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Uno	Virginia Sangco Cenijano	PARENT	Y
+108574070163	Matriano	Janelle Kylie	Canton		F	9/7/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sta. Milagrosa	Lanesa Dimaala Canton	PARENT	Y
+108574070182	Norva	Cassandra Joy	Cabio		F	11/6/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Baclaran	Fe Eval Cabio	PARENT	Y
+108606070054	Oriveda	Giesabel	Jusay		F	1/5/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Uno	Gina Lozanta Jusay	PARENT	Y
+108574070202	Peña	April Trishia Mae	Abu		F	4/11/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Uno	Maria Ella Abu Peña	PARENT	Y
+108607070123	Sadia	Hannah Bianca	Olivar		F	9/4/2001	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Sabang Dos 	Ma.Rieza Olivar Sadia	PARENT	Y
+108574070229	Salao	Ivy Joys Kryzel	Bernardo		F	4/11/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Biyan	Jovy Dela Cruz Bernardo	PARENT	Y
+108574070245	Tobias	Frestell Ann	Secoya		F	3/25/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Pinagkamaligan 	Jessica Cada Secoya	PARENT	Y
+108574070254	Vargas	Jossa Mae	Bongay		F	6/26/2002	Grade 8	St. Margaret	6/8/2015	Quezon	Calauag	Baclaran	Ma. Sarah Bueno Bongay	PARENT	Y
+108574070020	Bacayan	Resval	Anda	Jr.	M	12/21/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Aida A. Bacayan	PARENT	Y
+108607070023	Benitez	John Alfred	Lerum		M	7/9/2000	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sabang 1	Maribel L. Benitez	PARENT	Y
+108574070051	Capisonda	Rodenver	Milaor		M	4/2/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Binutas	Marinel M. Capisonda	PARENT	Y
+108614070011	Castillo	Prince Angelo	Gunda		M	3/17/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Tinuigiban	Maura G. Castillo	PARENT	Y
+108574070064	De Guzman	Russel	Lozares		M	9/1/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Ma. Melany L. De Guzman	PARENT	Y
+108574070070	Delos Reyes	John Wesly	Salcedo		M	2/12/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sabang 2	Sheyll S. Delos Reyes	PARENT	Y
+108574070076	Domogma	Peter Jude	Rodriguez		M	8/26/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Mylene M. Rodriguez	PARENT	Y
+108585070024	Florido	Marc Joseph	Trijo		M	9/7/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sumilang	Ofelia T. Florido	PARENT	Y
+108585070025	Folloso	Luisito	San Pablo		M	5/17/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Elena D. San Pablo	PARENT	Y
+109274070034	Geneblazo	Jerome 	Alcazar		M	5/26/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Lopez	Hondagua	Justina A. Geneblazo	PARENT	Y
+108585070033	Layman	Arcthurus	Amodia		M	12/20/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sumilang	Leticia A. Layman	PARENT	Y
+108574070128	Leonor	Daniel Josef	Mape		M	12/31/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Brgy. 2	Adelia M. Leonor	PARENT	Y
+108574070171	Monforte	Reniel	Vargas		M	8/8/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Pinagtalleran	Arlene V. Monforte	PARENT	Y
+136632120157	Montebon	Edmond	Alcantara		M	1/9/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Brgy. 4	Judith A. Montebon	PARENT	Y
+108574070179	Nollan	Mark Angelo	Apoin		M	8/7/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Roselyn A.Nollan	PARENT	Y
+108968070012	Olanda	Erson	Pera		M	6/9/2000	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Brgy. 2	Leonora P. Olanda	PARENT	Y
+108574070187	Olviga	Ryan Philip	Omongos		M	8/28/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Ma. Cristina O. Olviga	PARENT	Y
+108574070208	Prado	John Paul			M	2/6/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Lorena D. Prado	PARENT	Y
+108574070220	Rezare	Jhon Remuel	Nalos		M	4/1/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Brgy. 1	Cristina N. Rezare	PARENT	Y
+108604070016	Robles	Pole John 	Guban		M	11/25/2000	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sto. Domingo	Benilda G. Robles	PARENT	Y
+108606070065	Romero	Niel Andrew	Antonio		M	10/10/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Pinagkamaligan	Marianne A. Romero	PARENT	Y
+108585070054	Salas	Jan Markvic	Folloso		M	7/4/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sumilang	Josefina F. Salas	PARENT	Y
+108574070239	Silva	Philip John 	Leyson		M	4/21/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Brgy. 5	Felicita L. Silva	PARENT	Y
+108583070040	Verbo	Vladimer	Cosepe		M	3/12/2003	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	San Roque	Analyn C. Verbo	PARENT	Y
+108587070005	Barros	Reysamae	Guiatao		F	10/15/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sabang 2	Concepcion G. Barros	PARENT	Y
+108574070032	Basto	Maria Princess	Alcoran		F	5/7/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Binutas	Mary Jane A. Basto	PARENT	Y
+108574070056	Cepillo	Ma. Rica Cyril	Mapusao		F	10/29/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Milagrosa	Jenalyn M. Mapusao	PARENT	Y
+108574070083	Esplana	Ruth	Paraiso		F	8/8/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Pinagkamaligan	Marites P. Esplana	PARENT	Y
+108843070053	Eusebio	Eucela	Mancilla		F	6/5/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Lopez	Hondagua	Precela M. Eusebio	PARENT	Y
+108574070099	Hernandez	Cherrelyn	Villanea		F	5/25/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Tinuiguiban	Julia V. Hernandez	PARENT	Y
+108574070117	Jorvina	Jean Rose	Fajardo		F	12/8/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Tagkawayan	Cabugwang	Jasmin F. Jorvina	PARENT	Y
+108600070013	Medina	Michaella	Ahito		F	6/16/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Kinalin Ibaba	Juvielyn A. Medina	PARENT	Y
+108574070166	Meneses	Jolina	Gomez		F	11/15/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Mary Ann G. Meneses	PARENT	Y
+108600070021	Orgeta	Marra Mae	Montañes		F	9/3/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Kinalin Ibaba	Raquel M. Orgeta	PARENT	Y
+108574070206	Pimentel	Mary Joy 	Lasic		F	1/1/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sta. Maria	Edelvira L. Pimentel	PARENT	Y
+108574070215	Quintua	Lhady Mel 	Trillanes		F	9/26/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Pinagkamaligan	Vilma T. Quintua	PARENT	Y
+108614070032	Santos	Erica Nicole	Hernandez		F	2/1/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Tinuiguiban	Ma. Cristina H. Santos	PARENT	Y
+108606070066	Sasot	Florence	Abad		F	2/17/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Pinagkamaligan	Elsa A. Sasot	PARENT	Y
+108607120006	Velasco	Justlyn	Sta. Ana		F	5/28/2002	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Sabang 2	Jocelina S. Velasco	PARENT	Y
+108574070262	Wabel	Annie Mae	Salluman		F	10/23/2001	Grade 8	St. Matthew	6/8/2015	Quezon	Calauag	Brgy.5	Lorena S. Wabel	PARENT	Y
+108574070018	Arcusa	James Rafael	Alvaran		M	4/20/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Cinco	Rafael D. Arcusa	PARENT	
+108574060025	Arcusa	John Michael	Alvaran		M	6/2/2000	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Cinco	Rafael D. Arcusa	PARENT	
+108726070006	Atienza	Ryan Lester	Rebutar		M	9/20/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	GUINAYANGAN	Aloneros	Hector R. Atienza	PARENT	
+165001070013	Babao	John Ford	Leonor		M	8/25/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Dos	Joel M. Babao	PARENT	
+108607070036	Cochangco	John Raymond	Santor		M	12/23/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Remus A. Cochangco	PARENT	
+108843070034	Contrevida	Glemmer	Abinoman		M	4/24/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Tres	Glenn V.Contrevida	PARENT	
+108843070035	Contrevida	Glenier	Abinoman		M	4/24/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Tres	Glenn V. Contrevida	PARENT	
+108595070020	Escobañas	Kevin Cris	Ogahayon		M	5/5/2000	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Binutas	Marlo I. Escobañas	PARENT	
+108574070092	Go	Kenneth Jasper	Yuson		M	12/1/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Baclaran	Jonathan L. Go	PARENT	
+108574070104	Imperial 	Allen	Sasot		M	12/1/2000	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Dos	Roe R. Imperial	PARENT	
+108574070119	Jundak	Jose Junverd	Verdadero		M	10/27/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Tres	Santiago M. Jundak	PARENT	
+108574070122	Labaro	Martin John	Lozada		M	10/29/2000	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Cinco	Agustin L. Labaro Jr.	PARENT	
+108574070127	Lazo	Javie	Jimenez		M	1/31/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Jimmy Lazo	PARENT	
+108606070048	Mariquit	Mike Angelo	Dela Concepcion		M	5/29/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Rolando Mariquit	PARENT	
+108609070092	Paje	Mark Vincent	Estrella		M	3/9/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Vicente Z. Paje Jr.	PARENT	
+108606070059	Paraiso	John Elzer	Gonzaga		M	11/15/2000	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Rafael D. Paraiso	PARENT	
+108574070194	Parco	Joshua	Carabido		M	11/12/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Joemar D. Parco	PARENT	
+108574070205	Perez	Jonathan	Borja		M	11/11/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Gerry Perez	PARENT	
+108597070012	Rosas	Ian Harold	Recaña		M	2/27/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Orlando B. Rosas	PARENT	
+108591070008	Rosas	Kim Xavier	Azares		M	5/3/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Ronaldo B.Rosas	PARENT	
+108606120135	Talento	Jendrick Ashley	Morada		M	8/28/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Roderick Talento	PARENT	
+108574070263	Wabel	Hector	Bustonera	Jr.	M	9/26/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Cinco	Hector I. Wabel	PARENT	
+108581070001	Agad	Draizenkate	Mendaro		F	9/24/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Antonio P. Agad	PARENT	
+108607070007	Aguila	Rufa Mae	Ajero		F	5/8/2000	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Rudy P. Aguila	PARENT	
+108574070012	Ambas	Maria Therese			F	9/29/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Catherine M. Ambas	PARENT	
+136667070051	Ariola	Anne Rhiana	Pimentel		F	10/15/2001	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Marilag	Ervin T. Ariola	PARENT	
+108606070007	Blanco	Jomaica	Carcer		F	11/9/1999	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Patihan	Isagani A. Blanco	PARENT	
+108606070012	Carcer	Deah	Sebial		F	7/2/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Diomedes C. Carcer	PARENT	
+108607070042	Era	Marie Chris	Pariñas		F	6/16/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Federico V. Era	PARENT	
+108585120088	Moico	Ronna Mae	Alcones		F	3/2/2002	Grade 8	St. Joseph	6/8/2015	QUEZON	CALAUAG	Sumilang	Romeo P. Moico	PARENT	
+	Alegre	Michael Anthony	Dela Cruz		M	10/1/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagbayanan	Lerma Ilagan De La Cruz	Parent	Y
+108607080005	Amargo	Joseph	Belga		M	10/30/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sabang Dos	Filomena Gulifardo Belga	Parent	Y
+108574080012	Apacible	RJ Florenz	Guerrero		M	4/29/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Rosemarie Torreno Guerrero	Parent	Y
+108574120114	Arañas	Joshua	Francia		M	11/14/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	San Roque Ilaya	Mildred Lustan Francia	Parent	Y
+	Barrera	Adrian Ken	Valenciano		M	7/14/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag		Margie Valenciano	Parent	Y
+108843080031	Calbog	Lenard Louise	Nollan		M	11/25/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Lopez	Bagacay	Marissa Leonidas Nollan	Parent	Y
+108574080041	Camacho	Russel	Revillame		M	8/3/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Dos	Melinda Yumol Revillame	Parent	Y
+	Ebio	Jeffrey	Domanais		M	7/15/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Gina Dobiles Domanais	Parent	Y
+108607120118	Esternon	Ron Harvey	Rosilla		M	7/26/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagkamaligan	Helen Arzadon Rosilla	Parent	Y
+108574080073	Estilar	Michael Andrey	Querubin		M	9/8/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Dos	Elenita DeVera Querubin	Parent	Y
+108574080082	Francia	Lance Derick	Lazona		M	10/13/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Uno	Aileen Marco Lazona	Parent	Y
+	Hutalla	John Angelo	Mercado		M	5/16/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. 5	Nancy Ardinel Mercado	Parent	Y
+108574080110	Janairo	Rafael Simon	Santos		M	4/18/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. 3	Annelyn Go Santos	Parent	Y
+108574080112	Japone	Michael Ian	Jamito		M	8/6/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Binutas	Elaine Canonio Jamito	Parent	Y
+108574080122	Licas	Kent Celson	Gunda		M	11/13/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagkamaligan	Ronafe Febrer Gunda	Parent	Y
+	Limcuando	Aldrin John			M	4/11/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Mabel Cresencio Limcuando	Parent	Y
+	Lucido	Kurt Allen	Olviga		M	1/15/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagkamaligan	Marites Moreno Olviga	Parent	Y
+108574080132	Madera	Michael Laurence	Mendoza		M	1/20/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagtalleran	Ligaya Lagman Mendoza	Parent	Y
+108574080174	Pacinos	John Rinnel	Licas		M	9/13/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagkamaligan	Ma. Rina Austria Licas	Parent	Y
+	Peña	Kurt Chester	De Leon		M	12/24/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Ma. Lorenza Antonio De Leon	Parent	Y
+108574080194	Pulido	Patrick Ivan	Chan		M	9/26/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sabang Uno	Hidalicel Agnasin Chan	Parent	Y
+108843080107	Rivera	Earl Jann	Manalo		M	8/23/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Hondagua	Jo-Ann Pollero Manalo 	Parent	Y
+108574080237	Vargas	Jommel	Ferrer		M	12/4/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagtalleran	Josephine Eleazar Ferrer	Parent	Y
+108574080011	Anda	Faith	Loria		F	9/25/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. 4	Maricel Labaco Loria	Parent	Y
+108574080017	Argote	Althea Yvone	Larcina		F	11/13/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagtalleran	Alita Mendaro Larcina	Parent	Y
+108574080031	Batao	Jeanelle Jayne	Seguerra		F	5/31/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. 3	Sonia Arandela Seguerra	Parent	Y
+108574080036	Bocago	Gisela	Linchoco		F	6/14/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Virginia Noleal  Linchoco	Parent	Y
+108574080058	Dela Cruz	Rainne Yzabel	Villaos		F	10/12/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Dos	Maricel Factor Villaos	Parent	Y
+108574080059	Dela Torre	Ayen Kaye	Yeban		F	10/4/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Ma. Theresa Bihasa Yeban	Parent	Y
+108574080070	Epino	Vanessa Jane	Torre		F	7/14/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sabang Uno	Lualhati Mendoza Torre	Parent	Y
+108607080038	Fronda	Hanna Mae	Esternon		F	12/26/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sabang Uno	Rowelyn Alipante Esternon	Parent	Y
+	Geneblazo	Gwyneth Ashley	Salcedo		F	8/18/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Dos	Concepcion Tupas Salcedo	Parent	Y
+108574140172	Ilao	Cecilia	Mendoza		F	10/22/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Guinayangan	Danlagan	Maria Meriam Recio Mendoza	Parent	Y
+108575080011	Inofre	Niña Alena	Larcina		F	7/30/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Uno	Aileen Mendaro Larcina	Parent	Y
+108574080120	Leonor	Janna Eireen	Verdan		F	1/3/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Earl Vinia Mendoza Verdan	Parent	Y
+108574080126	Loria	Rozchel	Mascardo		F	7/6/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Cinco	Althea Segui Mascardo	Parent	Y
+108574080138	Marantal	Alyana Mae			F	3/9/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Dos	Miriam Orogo Marantal	Parent	Y
+108574080146	Mendoza	Guia Patricia	Medrano		F	9/27/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Baclaran	Milagros Garcia Medrano	Parent	Y
+108574080159	Nacalaban	Kristina Clare	Batao		F	8/17/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Alicia Ilagan Batao	Parent	Y
+108574080160	Narvaez	Abigail	Racho		F	8/20/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Cinco	Helen Umali Racho	Parent	Y
+108574080164	Ojales	Ma. Socorro Mae	Dapula		F	11/10/2012	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sabang Uno	Evelyn Mergilla Dapula	Parent	Y
+108574080173	Pabillar	Faye Lyss Anne	Molines		F	5/7/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. 5	Maria Luisa Petiza Molines	Parent	Y
+108574080175	Padronsolan	Cyril	Nabo		F	6/2/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Marifer Silverio Nabo	Parent	Y
+108574080185	Pera	Marianne	Driz		F	1/8/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Brgy. Uno	Elenita Aguilar Driz	Parent	Y
+108574080200	Rempillo	Allysandra	Peralta		F	2/17/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sta. Maria	Madelyn Olviga Peralta	Parent	Y
+108574080207	Sabado	Azaleah	Dianne		F	12/3/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Guinayangan	Danlagan	Lynne Tugade Sabado	Parent	Y
+108574080208	Sabando	Noella Mae	Pascasio		F	5/17/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sabang Uno	Isabelita Cabañeros Pascasio	Parent	Y
+	Sapaden	Alliah Victoria	Madronio		F	10/30/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Sumilang	Leah Peralta Madronio	Parent	Y
+	Velasco	Shaina Shane	Avendaño		F	7/17/2002	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinagbayanan	Elma Pinaso Avedaño	Parent	Y
+108574080243	Vinuya	Karyll Eunice	Pante		F	2/1/2003	Grade 7	St. Bridget	6/8/2015	Quezon	Calauag	Pinatalleran	Ma. Luisa Joson Pante	Parent	Y
+108574080015	Argonia	James Benedict	Cordovilla		M	11/16/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Rosita Basado Cordovilla	PARENT	Y
+	Aquino	Marnino Luis	Asuncion		M	11/15/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.3	Evangelina Rivera Asuncion	PARENT	Y
+	Eboña	Cymon	Ruiz		M	1/10/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Maria Richelda olavare Ruiz	PARENT	Y
+108582080015	Eusebio	Peejay	Mancilla		M	9/3/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang 2	Precela Nipas mancilla	PARENT	Y
+108574080081	Florido	Ven Jill	Felices		M	11/23/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Editha Bacobe Felices	PARENT	Y
+	Geneblazo	Geo	Sallan		M	5/12/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy, Pansol	Maria Melanie Orierte Sallan	PARENT	Y
+108574080086	Geneblazo	Vincent Julius	Oxina		M	1/11/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Lorna Dimaala Oxina	PARENT	Y
+108574080094	Hacuda	Jericho	Estreller		M	5/14/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Dolores Luna Estreller	PARENT	Y
+108606080026	Hernandez	Erwin	Lazona		M	7/7/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	sabang uno	Rosario Intorva Lazona	PARENT	Y
+108574080101	Imperial	Ken Harvy	Olea		M	4/27/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. Uno	Rosita Cantillana Olea	PARENT	Y
+108574080135	Manalo	Malvin	Calag	Jr. 	M	6/10/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.Hugos	Zenaida Mago Calag	PARENT	Y
+108574080142	Masaga	John Mark	Hernandez		M	11/28/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Bagong Silang	Lea Menesis Hernandez	PARENT	Y
+108574080167	Olviga	John Lloyd	Omongos		M	1/30/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Ma. Cristina dapon Omongos	PARENT	Y
+108574080176	Pajares	Doland	Seguerra		M	8/21/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. Kinalin	Pilita Teodoro Seguerra	PARENT	Y
+108574080178	Pamado	Marc Aingel	Tolentino		M	9/13/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. 4	Mellie Losada Tolentino	PARENT	Y
+108574080182	Pasumbal	Andrei	Abratigue		M	3/14/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Lilian Enriquez Abratigue	PARENT	Y
+108574080202	Resurreccion	Ehrn Paul			M	5/15/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.Baclaran	Princess Swertefelipe Resurreccion	PARENT	Y
+	Villafuerte	Jandrei	Milaor		M	4/25/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan	Wilma Cuala Milaor	PARENT	Y
+173011080085	Villapando	Alric	Mayo		M	6/15/2003	Grade 7	St. Monica	6/8/2015	CAMARINES NORTE	SANTA ELENA	Maulawin	Marites Gojar Mayo	PARENT	Y
+108574080019	Azucena	Ma. Heleina	Sison		F	11/25/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. Cinco	Angela Veloria Sison	PARENT	Y
+108574120130	Balaquidan	Triechze Kyles	Rosas		F	1/18/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang uno	Ma. Teresa Barreto Rosas	PARENT	Y
+	Ballesteros	Jean Louise	Ortiga		F	2/18/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.uno	Jannet Busalba Ortiga	PARENT	Y
+108574080030	Basto	Ma. Victoria	Calag		F	1/26/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.Binutas	Arlene Mago Calag	PARENT	Y
+108574080033	Berches	Kyla Gene	Larcena		F	11/5/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Estelita Mendaro Larcena	PARENT	Y
+108574080037	Breganio	Ivy	Olviga		F	6/21/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. Bigaan	Melanie Jariel Olviga	PARENT	Y
+108574080043	Cantollas	Krizzia Heart	Fontanilla		F	1/21/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Jill No Fontanilla	PARENT	Y
+108607080020	Dapula	Mikaella	Cristina		F	5/24/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang 2	Cristeta Jimenes Dapula	PARENT	Y
+108574080018	De Vera	Alexa	Andrea		F	6/3/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Evangeline Devera	PARENT	Y
+	Diaz	Aderyne	Orlanda		F	3/31/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. maria	Haide Saludades Orlanda	PARENT	Y
+108574080078	Flores	Frances Faye	Cruzado		F	1/5/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Rosalie Paytana Cruzado	PARENT	Y
+108607080040	Genciana	Maria Trisha Jore	Garfin		F	11/12/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang uno	Asuncion Devera Garfin	PARENT	Y
+108574080113	Jayag	Armina Rose	Bongay		F	5/18/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang uno	Maricar Rivarez Bongay	PARENT	Y
+109008080058	Laborde	Kalea Shane Angela	Enero		F	10/1/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. 3	Regina Bulfa Enero	PARENT	Y
+108574080118	Laniog	Abby Gale	Pepino		F	5/15/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. Biyan	Maria.Fe Esplana pepino	PARENT	Y
+108574080136	Mancilla	Maybell	Geneblazo		F	12/10/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. 5	Maritess Induyon Geneblazo	PARENT	Y
+107936080242	Mañalac	Kishi Layelle	Ambas		F	1/7/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy 2	Evangeline Olivar Ambas	PARENT	Y
+	Molinyawe	Cyrene	Juego		F	8/30/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy .2	maribel Coral Juego	PARENT	Y
+108574080161	Necio	Trisha	Ramirez		F	1/21/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.2	Aileen Medina Ramirez	PARENT	Y
+108574080064	Olviga	Chantal Valerie			F	2/14/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy Binutas	Criselda Santiago Dingalan	PARENT	Y
+108607080075	Perez	Joriz Dianne	Cabardo		F	8/31/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabanguno	Jerisa licardo Cabardo	PARENT	Y
+108574080195	Pumariga	Clarisse Ann	Enerlan		F	11/18/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Yolanda Palines Enerlan	PARENT	Y
+	Rañosa	Cherielaine Ann	Agam		F	8/29/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	Chedita Cerilla Agam	PARENT	Y
+108574080215	San Juan	Hanna Nikka	Aguilar		F	12/19/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang uno	Eden Maravilla Aguilar	PARENT	Y
+108574080218	Sarmiento	Pamela	Bombita		F	6/13/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Benilda Babasa bombita	PARENT	Y
+108574080222	Seguerra	Micaela	Olea		F	5/28/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy .2	Liza Camacho Olea	PARENT	Y
+108574080229	Sulivas	Julliene Rose	Casiño		F	11/1/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sta. Maria	JulietPazuelas Casiño	PARENT	Y
+109791080606	Tumpag	Kim	Ogdol		F	6/7/2003	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy.3	Annalie Dela Ogdol	PARENT	Y
+173011080083	Velasco	Jhoana Marie	Pastora		F	9/21/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Sabang uno	Marilyn Malto Pastora	PARENT	Y
+108574080240	Villafuerte	Mariane	Cabangon		F	10/7/2002	Grade 7	St. Monica	6/8/2015	QUEZON	CALAUAG	Brgy. Biyan	Catherine Cruz Cabangon	PARENT	Y
+108574080001	Abanto	Ivan	Dela Fuente		M	11/20/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Bimutas	Eva Tabares Dela Fuente	PARENT	Y
+108574080003	Abella	Jose Emmanuel	Argonia		M	12/25/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Cingco	Gina Martin Argonia	PARENT	Y
+108607080003	Almacen	Alfriend	Balonzo		M	8/17/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Adilyn	PARENT	Y
+108574080020	Baay	Matthew	Paolo		M	12/21/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Cingco	Meriam Balingbing Baay	PARENT	Y
+108609120220	Brutas	Jojemar	Sulit		M	5/24/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	St. Maria	Carina Sulit	PARENT	Y
+108574080044	Capistrano	John Mark	Vargas		M	9/2/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Cingco	Nobelita Recana Vargas	PARENT	Y
+108574080075	Felices	Francis	Buenaobra		M	1/9/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Dos	Minerva Tuazon Buenaobra	PARENT	Y
+108574080055	Geneblazo	Mark Allan	Espirito		M	10/18/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Ma. Cecilia Entienza Espirito	PARENT	Y
+108574080090	Grefalda	John Clint	Hubilla		M	4/25/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Sherill Vilar Hubilla	PARENT	Y
+108574130202	Irog	Andrei Robin	Vilar		M	9/8/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	St. Maria	Maridel Medalla Vilar	PARENT	Y
+108574080111	Japone	John Cydrick	Santelices		M	12/15/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	St. Maria	Sarah Santelices	PARENT	Y
+108814080014	Lizano	Joel	Nacion		M	9/18/2001	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan 	Luzviminda Nacion	PARENT	Y
+108609080052	Ma?alac	Cris Angelo	Diza		M	11/7/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	St. Maria	Angeles Tiama Diaz	PARENT	Y
+108607080067	Maurillo	Arvin	Plantado		M	4/4/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Lolita Serrano Plantado	PARENT	Y
+108574080145	Mejila	Mark Cymon	Geneblazo		M	3/22/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	GUINAYANGAN	Danlagan	Analyn Lumbes Geneblazo	PARENT	Y
+108574080166	Olivera	Pooch Khendrei	Imperial		M	12/31/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Uno	Yvette Ramos Imperial	PARENT	Y
+108585080039	Oropesa	Michael Angelo	Flores		M	12/20/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sumilang	Rufina Beltran Flores	PARENT	Y
+108600080025	Panganiban	Nathaniel	Seguerra		M	6/27/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Kinalin Ibaba	Angela Pajares Seguerra	PARENT	Y
+136821120264	Pasa	Bhe Jay Ivan	Salloman		M	11/16/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Kuwatro	Liza Salloman	PARENT	Y
+108611080084	Ramirez	John Denver	Ubana		M	10/31/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Madlandungan	Edelyn Ibita Ubana	PARENT	Y
+108605080053	Reyes	Jhon Howard	Matibag		M	9/18/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sto. Angel	Mylene Matibag	PARENT	Y
+108604080016	Robles	John Polly	Guban		M	3/24/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sto. Domingo	Benilda Guban	PARENT	Y
+108574080233	Umali	Jeric	Lajato		M	11/13/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Maribeth Endaya Lajato	PARENT	Y
+108574140190	Yap	Steven Rafael	Montenegro		M	7/30/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Dos	Wenesita Montenegro	PARENT	Y
+108574080008	Alpuerto	Shantel	Manjares		F	3/21/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Cingco	Marjorie Deocareza Manjares	PARENT	Y
+108574080040	Camacho	Terry Claire	Alano		F	9/24/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Uno	Jeodora Zamora Alano	PARENT	Y
+108585080010	Caymo	Romelyn	Paramo		F	8/19/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Kigtan	Sherly Buhatin Paramo	PARENT	Y
+108611080027	De Guzman	Crystal Faye	Tolentino		F	2/9/2004	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Madlandungan	Lorna Carandang tolentino	PARENT	Y
+108607080028	Ebiernas	Christine	Lascano		F	5/2/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sabang Dos	Letecia Maldo Lascano	PARENT	Y
+108614080017	Empleo	Denise	Fernandez		F	11/7/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Tiniguiban	Michelle Camacho Fernandez	PARENT	Y
+108582080011	Empleo	Kiersten Angela	Matoci?os		F	9/29/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Rizal Ibaba	Florence Matoci?os	PARENT	Y
+108581080020	Espinar	Trisha	Siazon		F	3/21/2004	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Uno	Zolita De Guzman Siazon	PARENT	Y
+108574080076	Fernando	Elyza	Jorque		F	4/22/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Baclaran	Marivic Jorque	PARENT	Y
+808574140188	Fidel	Rae Anne	Abrera		F	7/2/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Cingco	Felisa Abrera	PARENT	Y
+108574080091	Gregas	Crisia Mae	Querubin		F	1/3/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Rechel Mendoza Querubin	PARENT	Y
+108574080103	Indefenzo	Sedney Kaye	Barqueros		F	5/26/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagkamaligan 	Imelda Cantillana Barqueros	PARENT	Y
+108574120188	Inoval	Katrina	Florido		F	10/20/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	St. Maria	Monaliza Labaco Florido	PARENT	Y
+108607080060	Libranda	Curtnee Love	Benitez 		F	9/26/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Sabang Uno	Avelin Lerum Benitez	PARENT	Y
+108574080154	Mojico	Shanaiah	Eclavea		F	8/29/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	St. Maria	Marjorie Paraiso  Eclavea	PARENT	Y
+108574080156	Moreno	Sandra Mae	Ilagan		F	7/22/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	San Roque Ilaya	Ofelia Balmes Ilagan	PARENT	Y
+108574080213	Salloman	Mary Cris	Montesa		F	10/19/2001	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Cingco	Maribel Ramos Montesa	PARENT	Y
+108574080214	Salvador	Justine	Teodoro		F	5/25/2002	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Rowena Olea Teodoro	PARENT	Y
+108609080090	Tarusan	Alexis Anne	Mapula		F	1/12/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Judith Tugano Mapula	PARENT	Y
+108609080092	Trapane	Marianne	Narvaez		F	2/17/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagbayanan	Meda Narvaez	PARENT	Y
+108615080019	Yago	Honeylheen	Barroga		F	6/12/2003	Grade 7	St. Elizabeth	6/8/2015	QUEZON	CALAUAG	Pinagtalleran	Helen Balanac Barroga	PARENT	Y
+108800080003	Aguelo	Jericho	Buella		M	9/19/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Marilag	Narciso D. Aguelo Jr.	Parent	Y
+108574080007	Alcantara	Eduardo	Julita	Jr.	M	8/30/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Cinco	Eduardo G. Alcantara Sr.	Parent	Y
+108583080002	Alday	Aerol Jade	Offemaria		M	11/6/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	San Roque, Ibaba	Arsenio F. Alday	Parent	Y
+108615080003	Atienza	Kier Roar	Nalos		M	7/13/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Dos	Arnold M. Atienza	Parent	Y
+108585080006	Avendaño	Jamel	Paglinawan		M	3/17/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sumilang	Julius B. Avendaño	Parent	Y
+108607080012	Buison	Igiboy	Hinugin		M	6/19/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Dos	Eduardo D. Buison	Parent	Y
+108574080046	Casiano	Ken Russel	Labaco		M	12/6/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Mabini	Edgardo L. Casiano	Parent	Y
+108611080031	De Vera	John Mark	Pabio		M	6/21/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sto.Domingo	Angelito P. De Vera Jr.	Parent	Y
+108589080018	Garcia	Joshua	Bravante		M	2/12/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Viñas	Noriel T. Garcia	Parent	Y
+109274080042	Geneblazo	John Lloyd	Alcazar		M	8/14/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Lopez	Hondagua	Juanito T. Geneblazo	Parent	Y
+108607080049	Hernandez	Bryan Dave	Esconde		M	6/17/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Dos	Dante V. Hernandez	Parent	Y
+103057080007	Layugan	Arnold	Zalatar		M	3/16/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Biyan	Nicanor T. Layugan	Parent	Y
+108589080025	Lerum	Mike Aljon	Argueles		M	5/18/2001	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Viñas	Antonio A. Lerum	Parent	Y
+108854080015	Malaca	John Paul	Nacion		M	3/11/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagkamaligan	Roberto S. Malaca	Parent	Y
+108581080029	Marasigan	Renzel	Buenaobra		M	9/14/2001	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Dos	Rodrigo B. Marasigan	Parent	Y
+108600080021	Mejino	Hernando	Conda		M	8/27/2000	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Cinco	Armando B. Mejino	Parent	Y
+108585080036	Nuñez	Ian	Arañas		M	10/1/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Biyan	Emerlito M. Nuñez	Parent	Y
+108244121307	Perez	Jomari	Cardona		M	11/28/1999	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sta. Maria	Elmer M. Perez	Parent	Y
+108606080052	Pitero	Jeffrey	Mariquit		M	9/3/2001	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagkamaligan	Andres C. Pitero	Parent	Y
+108606080053	Politico	Jhon Eleck	Tobias		M	7/15/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagkamaligan	Rustico M. Politico	Parent	Y
+108611080083	Rada	Marc Samuel	Gabitanan		M	5/29/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Viñas	Gremaldo O. Rada	Parent	Y
+108606080062	Tardecilla	Bryan	Laydia		M	12/30/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Uno	Abner A. Tardecilla	Parent	Y
+108574070252	Valera	Denzel Rey	Dulay		M	4/11/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Uno	Rodel B. Valera	Parent	Y
+108574080245	Wabel	Hector Lawrence	Bustonera	III	M	5/30/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Cinco	Hector I. Wabel  Sr.	Parent	Y
+108607080002	Aguila	Jessery Jane	Ajero		F	10/23/2001	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Uno	Rudy P. Aguila	Parent	Y
+108606080003	Allosa	Aisel Amor	Nuella		F	11/4/2001	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagkamaligan	Arcadio E. Allosa	Parent	Y
+108606080004	Ambas	Richelle	Casia		F	9/18/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagkamaligan	Raymundo M. Ambas	Parent	Y
+108607080023	Dela Cruz	Daniela	Fernandez		F	9/27/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sumilang	Daniel P. Dela Cruz	Parent	Y
+108611080039	Diaz	Lyneth	Almario		F	11/7/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Tres	Noel D. Diaz	Parent	Y
+108574080065	Dollente	Kathleene Velle	Rentoria		F	4/9/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagtalleran	Redentor G. Dollente	Parent	Y
+108591080008	Eraula	Iresh Joy	Malolot		F	10/16/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Anas	Joel C. Eraula	Parent	Y
+108614080018	Fernandez	Mycha Xyrel	Alfuen		F	9/11/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Tiniguiban	Michael C. Fernandez	Parent	Y
+108574080083	Gallego	Recirera	Jundak		F	8/14/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Uno	Domingo B. Gallego Jr.	Parent	Y
+108607080039	Garganta	Maria Ashly Dianne	Valencia		F	11/22/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Dos	Jardene O. Garganta	Parent	Y
+108607080046	Guay	Alyssa Via	Anchiboy		F	6/1/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Dos	Daniel A. Guay	Parent	Y
+108574080104	Ingente	Janiebel	Quindoza		F	10/22/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Pinagtalleran	Ranulfo M. Ingente	Parent	Y
+112288080144	Jacala	Ezra Nyssa	Obis		F	5/8/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sta. Maria	Eduardo C. Jacala	Parent	Y
+108591080009	Leona	Micaela Jane	Atienza		F	1/10/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Anas	Rolando B. Leona Jr.	Parent	Y
+108574080134	Malana	Jeralyn	Lerio		F	4/16/2001	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Cinco	Franklin G. Malana	Parent	Y
+108612080042	Medes	Almera Jane	Buhay		F	2/20/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Mabini	Alberto R. Medes	Parent	Y
+108574080192	Polagne	Angelica	Mojico		F	9/10/2003	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sta. Maria	Joseph C. Polagne	Parent	Y
+108607080085	Regodon	Angel May	Valencia		F	5/5/2002	Grade 7	St. Ignatius	6/8/2015	Quezon	Calauag	Sabang Dos	Noel M. Regodon	Parent	Y

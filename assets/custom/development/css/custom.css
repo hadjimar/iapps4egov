@@ -1,0 +1,36 @@
+
+/* 
+    Author     : RedCrisostomo
+*/
+/*body{
+    background-color: #C0C6C2 !important;
+}*/
+.logo-default{
+    margin: 20px 0 0 0 !important;
+}
+.dropdown:hover > .dropdown-menu{
+    display:block;
+}
+.dropdown-menu>li>.dropdown-menu{
+    left: 100%;
+    position: absolute;
+    top: -5px;
+    margin-top: -1px;
+}
+.page-sidebar-menu>li>ul{
+    display:none;
+}
+.page-sidebar-menu>li:hover>ul.sub-menu{
+    display:block;
+}
+/*.page-sidebar-menu>li:hover>ul>li>a:before{
+    padding-left:20px;
+} */
+
+.fc-title{
+width:100%;
+	padding: 0 1px;
+	/*white-space:nowrap; 
+	overflow: hidden;*/
+	word-wrap: normal;
+}

@@ -1,0 +1,23 @@
+
+/* 
+    Author     : RedCrisostomo
+*/
+.dropdown:hover > .dropdown-menu{
+    display:block;
+}
+.dropdown-menu>li>.dropdown-menu{
+    left: 100%;
+    position: absolute;
+    top: -5px;
+    margin-top: -1px;
+}
+.page-sidebar-menu>li>ul{
+    display:none;
+}
+.page-sidebar-menu>li:hover>ul{
+    display:block;
+}
+/*.page-sidebar-menu>li:hover>ul>li>a:before{
+    padding-left:20px;
+} */
+
