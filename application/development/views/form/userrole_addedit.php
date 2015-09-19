@@ -28,7 +28,7 @@
                 <div class="col-md-10">
                         <select multiple="multiple" class="multi-select form-control input-large" id="my_multi_select2" name="data[Page][]">
                             
-                            <?php foreach($this->config->item('iskul_methods') as $controller =>$methods) :?>
+                            <?php foreach($this->config->item('ifoure_methods') as $controller =>$methods) :?>
                             <optgroup label="<?php echo strtoupper($controller);?>">
                                 <?php foreach($methods as $method) :?>
                                 <option value="<?php echo $method=='index' ? $controller : $controller.'/'.$method;?>"><?php echo str_replace('_',' ',($method=='index' ? $controller : $method));?></option>

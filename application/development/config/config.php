@@ -373,8 +373,13 @@ $config['ifoure_methods']['user'] = array('index');
 $config['ifoure_methods']['userrole'] = array('index');
 $config['ifoure_methods']['usermenu'] = array('index');
 $config['ifoure_methods']['location'] = array('index','province','citymunicipality','barangay');
-$config['ifoure_methods']['business_owner'] = array('index');
-$config['ifoure_methods']['business'] = array('index','business','business_application');
+$config['ifoure_methods']['business_nature'] = array('business_nature','business_nature_template_schedule');
+$config['ifoure_methods']['business_tfo_template'] = array('business_tfo_template,business_tfo_schedule','tfo_template_test');
+$config['ifoure_methods']['business_requirement'] = array('index');
+$config['ifoure_methods']['citizenship'] = array('index');
+$config['ifoure_methods']['requirement'] = array('index');
+$config['ifoure_methods']['ownership_type'] = array('index');
+$config['ifoure_methods']['occupancy_type'] = array('index');
 
 /*
 |--------------------------------------------------------------------------
