@@ -1,0 +1,8 @@
+INSTRUCTIONS:
+
+1.  Dowload via Zip (Click Download Zip)
+2.  Extract the zip files to your localhost folder (You need WAMP or XAMPP)
+3.  Go to phpmyAdmin and create a database (iapps4egov)
+4.  Import the sql file (iapps4egov.sql) included in the zip file.
+5.  Open web browser and type localhost/iapps4egov
+6.  Login using this credential: user: superadmin    password: admin4egov
